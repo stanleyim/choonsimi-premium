@@ -1,6 +1,5 @@
-pandas==2.2.2
-numpy==1.24.4
-pykrx==1.2.8
-finance-datareader==0.9.95
-requests
-python-dotenv
+pandas>=2.0.0
+numpy>=1.24.0
+pykrx>=1.0.45
+finance-datareader>=0.9.96
+requests>=2.31.0
