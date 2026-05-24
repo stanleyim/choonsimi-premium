@@ -1,4 +1,4 @@
-name: Daily Signal
+name: Daily Signal Update
 
 on:
   schedule:
