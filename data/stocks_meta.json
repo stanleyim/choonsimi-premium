@@ -1,0 +1,442 @@
+[
+  {
+    "num": 1,
+    "code": "005930",
+    "name": "삼성전자",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 2,
+    "code": "000660",
+    "name": "SK하이닉스",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 3,
+    "code": "373220",
+    "name": "LG에너지솔루션",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 4,
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 5,
+    "code": "005380",
+    "name": "현대차",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 6,
+    "code": "000270",
+    "name": "기아",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 7,
+    "code": "068270",
+    "name": "셀트리온",
+    "market": "KOSDAQ",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 8,
+    "code": "035420",
+    "name": "NAVER",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 9,
+    "code": "035720",
+    "name": "카카오",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 10,
+    "code": "005490",
+    "name": "POSCO홀딩스",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 11,
+    "code": "006400",
+    "name": "삼성SDI",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 12,
+    "code": "051910",
+    "name": "LG화학",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 13,
+    "code": "012330",
+    "name": "현대모비스",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 14,
+    "code": "055550",
+    "name": "신한지주",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 15,
+    "code": "105560",
+    "name": "KB금융",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 16,
+    "code": "017670",
+    "name": "SK텔레콤",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 17,
+    "code": "030200",
+    "name": "KT",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 18,
+    "code": "015760",
+    "name": "한국전력",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 19,
+    "code": "033780",
+    "name": "KT&G",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 20,
+    "code": "036570",
+    "name": "엔씨소프트",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 21,
+    "code": "051900",
+    "name": "LG생활건강",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 22,
+    "code": "090430",
+    "name": "아모레퍼시픽",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 23,
+    "code": "096770",
+    "name": "SK이노베이션",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 24,
+    "code": "010140",
+    "name": "삼성중공업",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 25,
+    "code": "329180",
+    "name": "HD현대중공업",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 26,
+    "code": "011200",
+    "name": "HMM",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 27,
+    "code": "010950",
+    "name": "S-Oil",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 28,
+    "code": "259960",
+    "name": "크래프톤",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 29,
+    "code": "012450",
+    "name": "한화에어로",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 30,
+    "code": "316140",
+    "name": "우리금융지주",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 31,
+    "code": "042700",
+    "name": "한미반도체",
+    "market": "KOSDAQ",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 32,
+    "code": "247540",
+    "name": "에코프로비엠",
+    "market": "KOSDAQ",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 33,
+    "code": "003670",
+    "name": "포스코퓨처엠",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 34,
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 35,
+    "code": "009830",
+    "name": "한화솔루션",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 36,
+    "code": "066570",
+    "name": "LG전자",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 37,
+    "code": "009150",
+    "name": "삼성전기",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 38,
+    "code": "018880",
+    "name": "한온시스템",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 39,
+    "code": "097950",
+    "name": "CJ제일제당",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 40,
+    "code": "271560",
+    "name": "오리온",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 41,
+    "code": "138040",
+    "name": "메리츠금융지주",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 42,
+    "code": "086790",
+    "name": "하나금융지주",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 43,
+    "code": "032830",
+    "name": "삼성생명",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 44,
+    "code": "009540",
+    "name": "HD한국조선해양",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 45,
+    "code": "241560",
+    "name": "두산밥캣",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 46,
+    "code": "196170",
+    "name": "알테오젠",
+    "market": "KOSDAQ",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 47,
+    "code": "277810",
+    "name": "레인보우로보틱스",
+    "market": "KOSDAQ",
+    "ca_zero": false,
+    "ipo_date": "2021-02-03"
+  },
+  {
+    "num": 48,
+    "code": "323410",
+    "name": "카카오뱅크",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": "2021-08-06"
+  },
+  {
+    "num": 49,
+    "code": "039030",
+    "name": "이오테크닉스",
+    "market": "KOSDAQ",
+    "ca_zero": true,
+    "ipo_date": null
+  },
+  {
+    "num": 50,
+    "code": "000100",
+    "name": "유한양행",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 51,
+    "code": "079550",
+    "name": "LIG디펜스앤에어로스페이스",
+    "market": "KOSPI",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 52,
+    "code": "064350",
+    "name": "현대로템",
+    "market": "KOSPI",
+    "ca_zero": true,
+    "ipo_date": null
+  },
+  {
+    "num": 53,
+    "code": "058470",
+    "name": "리노공업",
+    "market": "KOSDAQ",
+    "ca_zero": false,
+    "ipo_date": null
+  },
+  {
+    "num": 54,
+    "code": "454910",
+    "name": "두산로보틱스",
+    "market": "KOSDAQ",
+    "ca_zero": true,
+    "ipo_date": "2023-10-05"
+  },
+  {
+    "num": 55,
+    "code": "326030",
+    "name": "SK바이오팜",
+    "market": "KOSPI",
+    "ca_zero": true,
+    "ipo_date": null
+  }
+    ]
