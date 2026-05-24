@@ -1,0 +1,5 @@
+pandas>=2.0.0
+numpy>=1.24.0
+pykrx>=1.0.45
+FinanceDataReader>=0.9.96
+requests>=2.31.0
