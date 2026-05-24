@@ -1,6 +1,5 @@
-pandas==2.0.3
-numpy==1.24.4
-pykrx==1.2.8
-finance-datareader==0.9.95
-requests
-python-dotenv
+- pandas==2.0.3
++ pandas==2.2.2
+  numpy==1.24.4
+  pykrx==1.2.8
+  finance-datareader==0.9.95
