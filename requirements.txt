@@ -1,5 +1,6 @@
 pandas==2.0.3
 numpy==1.24.4
 pykrx==1.2.8
-FinanceDataReader==0.9.50
-requests==2.31.0
+finance-datareader==0.9.95
+requests
+python-dotenv
