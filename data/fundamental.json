@@ -11,7 +11,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "삼성전자",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 5846278608,
+    "market_cap": 1748037303792000
   },
   "373220": {
     "code": "373220",
@@ -25,7 +27,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "LG에너지솔루션",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 234000000,
+    "market_cap": 93483000000000
   },
   "000660": {
     "code": "000660",
@@ -39,7 +43,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "SK하이닉스",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 712702365,
+    "market_cap": 1462465252980000
   },
   "207940": {
     "code": "207940",
@@ -53,7 +59,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "삼성바이오로직스",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 46290951,
+    "market_cap": 65964605175000
   },
   "000270": {
     "code": "000270",
@@ -67,7 +75,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "기아",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 390412998,
+    "market_cap": 65198970666000
   },
   "005380": {
     "code": "005380",
@@ -79,7 +89,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "현대차",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 204757766,
+    "market_cap": 141078100774000
   },
   "035420": {
     "code": "035420",
@@ -93,7 +105,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "NAVER",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 156873776,
+    "market_cap": 31374755200000
   },
   "068270": {
     "code": "068270",
@@ -107,7 +121,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "셀트리온",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 222122341,
+    "market_cap": 43313856495000
   },
   "035720": {
     "code": "035720",
@@ -121,7 +137,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "카카오",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 441690614,
+    "market_cap": 18308075950300
   },
   "006400": {
     "code": "006400",
@@ -133,7 +151,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "삼성SDI",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 80585530,
+    "market_cap": 51735910260000
   },
   "005490": {
     "code": "005490",
@@ -147,7 +167,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "POSCO홀딩스",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 79241527,
+    "market_cap": 35024754934000
   },
   "051910": {
     "code": "051910",
@@ -159,7 +181,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "LG화학",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 70592343,
+    "market_cap": 24777912393000
   },
   "012330": {
     "code": "012330",
@@ -173,7 +197,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "현대모비스",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 90732583,
+    "market_cap": 60246435112000
   },
   "105560": {
     "code": "105560",
@@ -187,7 +213,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "KB금융",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 372850455,
+    "market_cap": 58649376571500
   },
   "017670": {
     "code": "017670",
@@ -201,7 +229,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "SK텔레콤",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 214790053,
+    "market_cap": 21930064411300
   },
   "055550": {
     "code": "055550",
@@ -215,7 +245,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "신한지주",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 474654361,
+    "market_cap": 45566818656000
   },
   "030200": {
     "code": "030200",
@@ -229,7 +261,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "KT",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 252021685,
+    "market_cap": 13659575327000
   },
   "015760": {
     "code": "015760",
@@ -243,7 +277,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "한국전력",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 641964077,
+    "market_cap": 25967446914650
   },
   "033780": {
     "code": "033780",
@@ -257,7 +293,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "KT&G",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 103810456,
+    "market_cap": 18903884037600
   },
   "051900": {
     "code": "051900",
@@ -267,7 +305,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "LG생활건강",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 15291262,
+    "market_cap": 3937499965000
   },
   "090430": {
     "code": "090430",
@@ -281,7 +321,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "아모레퍼시픽",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 58492759,
+    "market_cap": 6943090493300
   },
   "036570": {
     "code": "036570",
@@ -293,7 +335,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "엔씨소프트",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 21544022,
+    "market_cap": 5849201973000
   },
   "010140": {
     "code": "010140",
@@ -307,7 +351,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "삼성중공업",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 880000000,
+    "market_cap": 26796000000000
   },
   "329180": {
     "code": "329180",
@@ -321,7 +367,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "HD현대중공업",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 104961225,
+    "market_cap": 78196112625000
   },
   "096770": {
     "code": "096770",
@@ -333,7 +381,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "SK이노베이션",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 169052788,
+    "market_cap": 20573724299600
   },
   "011200": {
     "code": "011200",
@@ -347,7 +397,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "HMM",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 943237970,
+    "market_cap": 19053406994000
   },
   "010950": {
     "code": "010950",
@@ -361,7 +413,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "S-Oil",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 112582792,
+    "market_cap": 12395365399200
   },
   "259960": {
     "code": "259960",
@@ -375,7 +429,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "크래프톤",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 46132393,
+    "market_cap": 12017488376500
   },
   "012450": {
     "code": "012450",
@@ -385,7 +441,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "한화에어로",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 51563401,
+    "market_cap": 64505814651000
   },
   "247540": {
     "code": "247540",
@@ -397,7 +455,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "에코프로비엠",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 97830434,
+    "market_cap": 21522695480000
   },
   "316140": {
     "code": "316140",
@@ -411,7 +471,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "우리금융지주",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 734076320,
+    "market_cap": 22719662104000
   },
   "042700": {
     "code": "042700",
@@ -425,7 +487,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "한미반도체",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 95312200,
+    "market_cap": 31357713800000
   },
   "003670": {
     "code": "003670",
@@ -439,7 +503,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "포스코퓨처엠",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 88946220,
+    "market_cap": 21391565910000
   },
   "034020": {
     "code": "034020",
@@ -453,7 +519,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "두산에너빌리티",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 640561146,
+    "market_cap": 72127185039600
   },
   "009830": {
     "code": "009830",
@@ -465,7 +533,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "한화솔루션",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 171892536,
+    "market_cap": 7640623225200
   },
   "066570": {
     "code": "066570",
@@ -479,7 +549,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "LG전자",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 162884638,
+    "market_cap": 39010870801000
   },
   "009150": {
     "code": "009150",
@@ -489,7 +561,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "삼성전기",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 74693696,
+    "market_cap": 117418490112000
   },
   "018880": {
     "code": "018880",
@@ -503,7 +577,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "한온시스템",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 1026262552,
+    "market_cap": 5377615772480
   },
   "097950": {
     "code": "097950",
@@ -517,7 +593,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "CJ제일제당",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 15054186,
+    "market_cap": 3176433246000
   },
   "271560": {
     "code": "271560",
@@ -531,7 +609,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "오리온",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 39536132,
+    "market_cap": 5428310923600
   },
   "032830": {
     "code": "032830",
@@ -545,7 +625,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "삼성생명",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 200000000,
+    "market_cap": 69600000000000
   },
   "138040": {
     "code": "138040",
@@ -559,7 +641,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "메리츠금융지주",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 167347273,
+    "market_cap": 17822484574500
   },
   "086790": {
     "code": "086790",
@@ -571,7 +655,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "하나금융지주",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 274367748,
+    "market_cap": 32924129760000
   },
   "009540": {
     "code": "009540",
@@ -585,7 +671,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "HD한국조선해양",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 70773116,
+    "market_cap": 31494036620000
   },
   "241560": {
     "code": "241560",
@@ -597,7 +685,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "두산밥캣",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 95856065,
+    "market_cap": 6518212420000
   },
   "196170": {
     "code": "196170",
@@ -611,7 +701,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "알테오젠",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 53586343,
+    "market_cap": 19585808366500
   },
   "277810": {
     "code": "277810",
@@ -625,7 +717,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "레인보우로보틱스",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 19399858,
+    "market_cap": 14976690376000
   },
   "039030": {
     "code": "039030",
@@ -639,7 +733,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "이오테크닉스",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 12319550,
+    "market_cap": 6738793850000
   },
   "323410": {
     "code": "323410",
@@ -651,7 +747,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "카카오뱅크",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 477120437,
+    "market_cap": 10687497788800
   },
   "079550": {
     "code": "079550",
@@ -665,7 +763,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "LIG디펜스앤에어로스페이스",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 22000000,
+    "market_cap": 20086000000000
   },
   "064350": {
     "code": "064350",
@@ -677,7 +777,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "현대로템",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 109142293,
+    "market_cap": 23356450702000
   },
   "000100": {
     "code": "000100",
@@ -691,7 +793,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "유한양행",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 79647601,
+    "market_cap": 6833764165800
   },
   "058470": {
     "code": "058470",
@@ -705,7 +809,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "리노공업",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 76211850,
+    "market_cap": 8444272980000
   },
   "454910": {
     "code": "454910",
@@ -719,7 +825,9 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "두산로보틱스",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 64819980,
+    "market_cap": 6929255862000
   },
   "326030": {
     "code": "326030",
@@ -731,14 +839,16 @@
     "quarter": "1Q",
     "reprt_code": "11013",
     "name": "SK바이오팜",
-    "dart_updated": "2026-05-26"
+    "dart_updated": "2026-05-27",
+    "shares": 78313250,
+    "market_cap": 7572891275000
   },
   "_meta": {
-    "date": "2026-05-26",
+    "date": "2026-05-27",
     "year": 2026,
     "quarter": "1Q",
     "count": 55,
     "errors": 0,
-    "updated_at": "2026-05-26T00:45:58.043979+09:00"
+    "updated_at": "2026-05-27T10:58:01.616063+09:00"
   }
 }
