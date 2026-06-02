@@ -1,10 +1,5 @@
 ﻿{
   "000100": {
-    "2026-03-04": {
-      "foreign": -2834187850.0,
-      "institution": -3426553600.0,
-      "individual": 6657663450.0
-    },
     "2026-03-05": {
       "foreign": 11129446950.0,
       "institution": -5450175900.0,
@@ -300,14 +295,15 @@
       "institution": -2668937500.0,
       "individual": -3475191900.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2547068650.0,
+      "institution": -881503950.0,
+      "individual": -1685319400.0,
+      "ownership_5d_change": 0.0
     }
   },
   "000150": {
-    "2026-03-04": {
-      "foreign": 19966242500.0,
-      "institution": -15271684000.0,
-      "individual": -6513849500.0
-    },
     "2026-03-05": {
       "foreign": 10291357500.0,
       "institution": -2434598500.0,
@@ -603,14 +599,15 @@
       "institution": -14842379000.0,
       "individual": -50675582500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 67179139000.0,
+      "institution": -3489174000.0,
+      "individual": -60958422000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "000250": {
-    "2026-03-04": {
-      "foreign": 42130746000.0,
-      "institution": -1760546500.0,
-      "individual": -40649861500.0
-    },
     "2026-03-05": {
       "foreign": -10133370500.0,
       "institution": 48305356500.0,
@@ -906,14 +903,15 @@
       "institution": 531873250.0,
       "individual": 29100078000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 8146687250.0,
+      "institution": 11369871250.0,
+      "individual": -19508020000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "000270": {
-    "2026-03-04": {
-      "foreign": 50888751200.0,
-      "institution": -31963369550.0,
-      "individual": -17748528750.0
-    },
     "2026-03-05": {
       "foreign": -73798668250.0,
       "institution": -31753458350.0,
@@ -1209,14 +1207,15 @@
       "institution": 44167225800.0,
       "individual": -48617359800.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -1368213000.0,
+      "institution": 8603344950.0,
+      "individual": -8449348950.0,
+      "ownership_5d_change": 0.0
     }
   },
   "000500": {
-    "2026-02-27": {
-      "foreign": -1417388300.0,
-      "institution": 4428658200.0,
-      "individual": -3087399550.0
-    },
     "2026-03-03": {
       "foreign": -125000050.0,
       "institution": 2070378300.0,
@@ -1512,14 +1511,15 @@
       "institution": -8188121500.0,
       "individual": -357475500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -3850852500.0,
+      "institution": 1797914000.0,
+      "individual": 1967494500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "000660": {
-    "2026-03-04": {
-      "foreign": -529040123500.0,
-      "institution": 466896889000.0,
-      "individual": 32606533500.0
-    },
     "2026-03-05": {
       "foreign": 313068963500.0,
       "institution": -211533545500.0,
@@ -1815,14 +1815,15 @@
       "institution": -95284679000.0,
       "individual": 1100209799500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -1712929798500.0,
+      "institution": 2029549918500.0,
+      "individual": -304819638000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "000720": {
-    "2026-03-04": {
-      "foreign": 46984287150.0,
-      "institution": -45901349100.0,
-      "individual": -4416833200.0
-    },
     "2026-03-05": {
       "foreign": -1878697000.0,
       "institution": -23457428700.0,
@@ -2118,14 +2119,15 @@
       "institution": -8606391200.0,
       "individual": -12526455650.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 32672670550.0,
+      "institution": -40354995650.0,
+      "individual": 8066414500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "000810": {
-    "2026-03-04": {
-      "foreign": 327475000.0,
-      "institution": -5846162000.0,
-      "individual": 5432327500.0
-    },
     "2026-03-05": {
       "foreign": 2489429500.0,
       "institution": -6199251250.0,
@@ -2421,14 +2423,15 @@
       "institution": 11092524500.0,
       "individual": -6061242500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 8619499500.0,
+      "institution": -436394000.0,
+      "individual": -8322020500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "000880": {
-    "2026-03-04": {
-      "foreign": 18353476200.0,
-      "institution": -5210522600.0,
-      "individual": -12636784200.0
-    },
     "2026-03-05": {
       "foreign": 20161718350.0,
       "institution": -6990728800.0,
@@ -2724,14 +2727,15 @@
       "institution": 1453510750.0,
       "individual": 268451700.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2466034200.0,
+      "institution": -238472150.0,
+      "individual": -2113831850.0,
+      "ownership_5d_change": 0.0
     }
   },
   "000990": {
-    "2026-03-04": {
-      "foreign": 2040268550.0,
-      "institution": 4580250500.0,
-      "individual": -6266117250.0
-    },
     "2026-03-05": {
       "foreign": -8386498350.0,
       "institution": 20413918400.0,
@@ -3027,14 +3031,15 @@
       "institution": -62851715350.0,
       "individual": 26339601550.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 39372801900.0,
+      "institution": -38456732650.0,
+      "individual": -720390350.0,
+      "ownership_5d_change": 0.0
     }
   },
   "001040": {
-    "2026-03-04": {
-      "foreign": 3572103300.0,
-      "institution": -231157350.0,
-      "individual": -3585247250.0
-    },
     "2026-03-05": {
       "foreign": -4881583300.0,
       "institution": -10398780600.0,
@@ -3330,14 +3335,15 @@
       "institution": 1137745150.0,
       "individual": 711548650.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -2713259200.0,
+      "institution": -869990550.0,
+      "individual": 2902472600.0,
+      "ownership_5d_change": 0.0
     }
   },
   "001430": {
-    "2026-03-04": {
-      "foreign": 17180221600.0,
-      "institution": -7060947000.0,
-      "individual": -9847564500.0
-    },
     "2026-03-05": {
       "foreign": 2524403100.0,
       "institution": -4805657600.0,
@@ -3633,14 +3639,15 @@
       "institution": -3283839900.0,
       "individual": -2472630100.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3349024050.0,
+      "institution": -1625628050.0,
+      "individual": -1695272200.0,
+      "ownership_5d_change": 0.0
     }
   },
   "001440": {
-    "2026-03-04": {
-      "foreign": 23571236900.0,
-      "institution": -8714705075.0,
-      "individual": -14715661875.0
-    },
     "2026-03-05": {
       "foreign": -7238423450.0,
       "institution": -1762220675.0,
@@ -3936,14 +3943,15 @@
       "institution": 203108300.0,
       "individual": -41563586975.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -29100767425.0,
+      "institution": 7656276075.0,
+      "individual": 19905839250.0,
+      "ownership_5d_change": 0.0
     }
   },
   "001740": {
-    "2026-03-04": {
-      "foreign": 2061202951.0,
-      "institution": -305553835.0,
-      "individual": -1757627436.0
-    },
     "2026-03-05": {
       "foreign": -58978795.0,
       "institution": -14356845.0,
@@ -4239,14 +4247,15 @@
       "institution": 560563010.0,
       "individual": 1539090.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -4096160220.0,
+      "institution": -741789310.0,
+      "individual": 4724732850.0,
+      "ownership_5d_change": 0.0
     }
   },
   "001820": {
-    "2026-03-04": {
-      "foreign": 4167946775.0,
-      "institution": -1866944975.0,
-      "individual": -2917822200.0
-    },
     "2026-03-05": {
       "foreign": -4663239925.0,
       "institution": 1050405850.0,
@@ -4542,14 +4551,15 @@
       "institution": 1547743750.0,
       "individual": 2795060000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -3536425100.0,
+      "institution": -21837259400.0,
+      "individual": 25185348400.0,
+      "ownership_5d_change": 0.0
     }
   },
   "002380": {
-    "2026-03-04": {
-      "foreign": 5145034500.0,
-      "institution": -3364503250.0,
-      "individual": 166735750.0
-    },
     "2026-03-05": {
       "foreign": 4257610500.0,
       "institution": -6088041500.0,
@@ -4845,14 +4855,15 @@
       "institution": -2457118500.0,
       "individual": -753228000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -838560500.0,
+      "institution": -2415483500.0,
+      "individual": 3352088000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "003000": {
-    "2026-03-04": {
-      "foreign": 1398393700.0,
-      "institution": 344768848.0,
-      "individual": -1591009803.0
-    },
     "2026-03-05": {
       "foreign": 690693994.0,
       "institution": 76187786.0,
@@ -5148,14 +5159,15 @@
       "institution": -17356513.0,
       "individual": 12109409.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 1475933138.0,
+      "institution": -1224589602.0,
+      "individual": -251345071.0,
+      "ownership_5d_change": 0.0
     }
   },
   "003230": {
-    "2026-03-04": {
-      "foreign": 21582276500.0,
-      "institution": -9011445500.0,
-      "individual": -12557812500.0
-    },
     "2026-03-05": {
       "foreign": -2574205000.0,
       "institution": -11069842000.0,
@@ -5451,14 +5463,15 @@
       "institution": -15313006000.0,
       "individual": 12430635000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 26362539500.0,
+      "institution": -42760476000.0,
+      "individual": 16485343000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "003280": {
-    "2026-03-04": {
-      "foreign": -3043128792.0,
-      "institution": 130691764.0,
-      "individual": 2914449974.0
-    },
     "2026-03-05": {
       "foreign": 7070062571.0,
       "institution": 110341695.0,
@@ -5754,14 +5767,15 @@
       "institution": -19088364.0,
       "individual": -2812213767.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2283895328.0,
+      "institution": -3129491.0,
+      "individual": -2237799512.0,
+      "ownership_5d_change": 0.0
     }
   },
   "003380": {
-    "2026-03-04": {
-      "foreign": 11860109280.0,
-      "institution": 1452552985.0,
-      "individual": -16624720735.0
-    },
     "2026-03-05": {
       "foreign": 1952891265.0,
       "institution": -1314438660.0,
@@ -6057,14 +6071,15 @@
       "institution": 988654930.0,
       "individual": -2930921635.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 966667065.0,
+      "institution": 1030772330.0,
+      "individual": -1972744785.0,
+      "ownership_5d_change": 0.0
     }
   },
   "003490": {
-    "2026-03-04": {
-      "foreign": 2454209550.0,
-      "institution": -5643776275.0,
-      "individual": -1210933525.0
-    },
     "2026-03-05": {
       "foreign": 5150619000.0,
       "institution": -13339123525.0,
@@ -6360,14 +6375,15 @@
       "institution": -4476087225.0,
       "individual": 5071258075.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 6322869300.0,
+      "institution": -7451116000.0,
+      "individual": 759072925.0,
+      "ownership_5d_change": 0.0
     }
   },
   "003530": {
-    "2026-03-04": {
-      "foreign": 7813214575.0,
-      "institution": -916640450.0,
-      "individual": -7094178315.0
-    },
     "2026-03-05": {
       "foreign": 759010240.0,
       "institution": 5341963385.0,
@@ -6663,14 +6679,15 @@
       "institution": -1102237485.0,
       "individual": 1178354670.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3216524070.0,
+      "institution": -2329068875.0,
+      "individual": -1220937185.0,
+      "ownership_5d_change": 0.0
     }
   },
   "003550": {
-    "2026-03-04": {
-      "foreign": 19790811250.0,
-      "institution": -8873070800.0,
-      "individual": -8779387550.0
-    },
     "2026-03-05": {
       "foreign": 7427364650.0,
       "institution": -6459102600.0,
@@ -6966,14 +6983,15 @@
       "institution": 38505545500.0,
       "individual": 65324873800.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -138133967150.0,
+      "institution": -34671517200.0,
+      "individual": 169302282600.0,
+      "ownership_5d_change": 0.0
     }
   },
   "003670": {
-    "2026-03-04": {
-      "foreign": -3186628700.0,
-      "institution": -6583610000.0,
-      "individual": 8633349000.0
-    },
     "2026-03-05": {
       "foreign": -1698202500.0,
       "institution": -598654750.0,
@@ -7269,14 +7287,15 @@
       "institution": 20558019500.0,
       "individual": -23592805500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -5311935750.0,
+      "institution": -9914076000.0,
+      "individual": 15160844750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "004020": {
-    "2026-03-04": {
-      "foreign": -3734820275.0,
-      "institution": 4775607900.0,
-      "individual": -1393302200.0
-    },
     "2026-03-05": {
       "foreign": -18213118675.0,
       "institution": 4678034275.0,
@@ -7572,14 +7591,15 @@
       "institution": -1514645875.0,
       "individual": -1525319825.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 4093334750.0,
+      "institution": 685260575.0,
+      "individual": -4106057825.0,
+      "ownership_5d_change": 0.0
     }
   },
   "004170": {
-    "2026-03-04": {
-      "foreign": 3587846500.0,
-      "institution": 2665953500.0,
-      "individual": -6635019500.0
-    },
     "2026-03-05": {
       "foreign": 1967335250.0,
       "institution": -1362619250.0,
@@ -7875,14 +7895,15 @@
       "institution": -4886388000.0,
       "individual": 838218000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3474955000.0,
+      "institution": -5219884500.0,
+      "individual": 1694756500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "005290": {
-    "2026-03-04": {
-      "foreign": 51757325.0,
-      "institution": 2011966025.0,
-      "individual": -2205198350.0
-    },
     "2026-03-05": {
       "foreign": 1168144650.0,
       "institution": 11074466150.0,
@@ -8178,14 +8199,15 @@
       "institution": -5006437950.0,
       "individual": 5471865450.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5504194500.0,
+      "institution": -10915693750.0,
+      "individual": 5165485550.0,
+      "ownership_5d_change": 0.0
     }
   },
   "005380": {
-    "2026-03-04": {
-      "foreign": -63486584000.0,
-      "institution": -129105987500.0,
-      "individual": 189709451000.0
-    },
     "2026-03-05": {
       "foreign": -211431494500.0,
       "institution": -116727640000.0,
@@ -8481,14 +8503,15 @@
       "institution": 221222630000.0,
       "individual": -271284709500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -117728472000.0,
+      "institution": 44888733000.0,
+      "individual": 58173190000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "005490": {
-    "2026-03-04": {
-      "foreign": 19820465500.0,
-      "institution": -27596636250.0,
-      "individual": 6258180250.0
-    },
     "2026-03-05": {
       "foreign": -48351345250.0,
       "institution": -18284959000.0,
@@ -8784,14 +8807,15 @@
       "institution": 3648972000.0,
       "individual": -1732119500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 47273360000.0,
+      "institution": -45347994500.0,
+      "individual": -171106750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "005830": {
-    "2026-03-04": {
-      "foreign": 1831149500.0,
-      "institution": 2612616150.0,
-      "individual": -4382437950.0
-    },
     "2026-03-05": {
       "foreign": 5554841050.0,
       "institution": -2696037500.0,
@@ -9087,14 +9111,15 @@
       "institution": 3108962000.0,
       "individual": 1045014900.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 4402315300.0,
+      "institution": -5093794300.0,
+      "individual": 663916200.0,
+      "ownership_5d_change": 0.0
     }
   },
   "005880": {
-    "2026-03-04": {
-      "foreign": -18815264562.0,
-      "institution": -3596628431.0,
-      "individual": 22618921923.0
-    },
     "2026-03-05": {
       "foreign": 5756615640.0,
       "institution": 2674603531.0,
@@ -9390,14 +9415,15 @@
       "institution": 232124801.0,
       "individual": -1935496110.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 727230548.0,
+      "institution": -192015505.0,
+      "individual": -565125689.0,
+      "ownership_5d_change": 0.0
     }
   },
   "005930": {
-    "2026-03-04": {
-      "foreign": -695276560100.0,
-      "institution": 291383446700.0,
-      "individual": 141029123750.0
-    },
     "2026-03-05": {
       "foreign": -336092254000.0,
       "institution": -673468470450.0,
@@ -9693,14 +9719,15 @@
       "institution": 1666582391750.0,
       "individual": -1334073074250.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -41530027000.0,
+      "institution": 1289917753000.0,
+      "individual": -1087601348000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "005940": {
-    "2026-03-04": {
-      "foreign": 13202722725.0,
-      "institution": -1731550050.0,
-      "individual": -11207253975.0
-    },
     "2026-03-05": {
       "foreign": -7964766450.0,
       "institution": 8975511725.0,
@@ -9996,14 +10023,15 @@
       "institution": -6919433650.0,
       "individual": -284066275.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 7779332575.0,
+      "institution": -4061045325.0,
+      "individual": -7014606325.0,
+      "ownership_5d_change": 0.0
     }
   },
   "006110": {
-    "2026-03-04": {
-      "foreign": 538594300.0,
-      "institution": 41954100.0,
-      "individual": -617947800.0
-    },
     "2026-03-05": {
       "foreign": -854120175.0,
       "institution": -6430100.0,
@@ -10299,14 +10327,15 @@
       "institution": -2021378750.0,
       "individual": 2774273850.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 71608050.0,
+      "institution": 5615439800.0,
+      "individual": -5606929550.0,
+      "ownership_5d_change": 0.0
     }
   },
   "006260": {
-    "2026-03-04": {
-      "foreign": 4742825000.0,
-      "institution": -9096621250.0,
-      "individual": 4137521750.0
-    },
     "2026-03-05": {
       "foreign": 1814226000.0,
       "institution": -3505239250.0,
@@ -10602,14 +10631,15 @@
       "institution": -54332073750.0,
       "individual": 15909752750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 24966882000.0,
+      "institution": -33750980250.0,
+      "individual": 8114438000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "006340": {
-    "2026-03-04": {
-      "foreign": 13421595046.0,
-      "institution": -52428875.0,
-      "individual": -13156331416.0
-    },
     "2026-03-05": {
       "foreign": -2004399005.0,
       "institution": -91841160.0,
@@ -10905,14 +10935,15 @@
       "institution": -991404150.0,
       "individual": -6414804575.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 1020213200.0,
+      "institution": 648299525.0,
+      "individual": -1597419805.0,
+      "ownership_5d_change": 0.0
     }
   },
   "006360": {
-    "2026-03-04": {
-      "foreign": -7209908645.0,
-      "institution": -2523635875.0,
-      "individual": 7855155510.0
-    },
     "2026-03-05": {
       "foreign": -4205905205.0,
       "institution": -2043924560.0,
@@ -11208,14 +11239,15 @@
       "institution": -5993975025.0,
       "individual": 1441316900.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -2401736525.0,
+      "institution": 1655343700.0,
+      "individual": 355938425.0,
+      "ownership_5d_change": 0.0
     }
   },
   "006400": {
-    "2026-03-04": {
-      "foreign": 75390414500.0,
-      "institution": -39334635500.0,
-      "individual": -31139912750.0
-    },
     "2026-03-05": {
       "foreign": -25089359250.0,
       "institution": 8724632250.0,
@@ -11511,14 +11543,15 @@
       "institution": 95411663500.0,
       "individual": -88473604000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -115895546500.0,
+      "institution": 9888556000.0,
+      "individual": 109390336500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "006800": {
-    "2026-03-04": {
-      "foreign": 59124762200.0,
-      "institution": 9354990200.0,
-      "individual": -67806498500.0
-    },
     "2026-03-05": {
       "foreign": -50253402050.0,
       "institution": 881796300.0,
@@ -11814,14 +11847,15 @@
       "institution": -23399324450.0,
       "individual": 11498212150.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 19327570600.0,
+      "institution": -24614508550.0,
+      "individual": 5043771450.0,
+      "ownership_5d_change": 0.0
     }
   },
   "006910": {
-    "2026-03-04": {
-      "foreign": 11615468950.0,
-      "institution": 252410850.0,
-      "individual": -11870847670.0
-    },
     "2026-03-05": {
       "foreign": -2825055000.0,
       "institution": -269413690.0,
@@ -12117,14 +12151,15 @@
       "institution": -2236350.0,
       "individual": -906961255.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 795931535.0,
+      "institution": 17641505.0,
+      "individual": 90533270.0,
+      "ownership_5d_change": 0.0
     }
   },
   "007660": {
-    "2026-03-04": {
-      "foreign": -13151242850.0,
-      "institution": -7810871600.0,
-      "individual": 22583292600.0
-    },
     "2026-03-05": {
       "foreign": 23046668150.0,
       "institution": 21370584850.0,
@@ -12420,14 +12455,15 @@
       "institution": 33600832450.0,
       "individual": 2412715000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 34365273000.0,
+      "institution": 19735441350.0,
+      "individual": -54189129150.0,
+      "ownership_5d_change": 0.0
     }
   },
   "007810": {
-    "2026-03-04": {
-      "foreign": 1483094775.0,
-      "institution": -219563175.0,
-      "individual": -1378371350.0
-    },
     "2026-03-05": {
       "foreign": 2095366000.0,
       "institution": -1495353050.0,
@@ -12723,14 +12759,15 @@
       "institution": 5114748250.0,
       "individual": -7319054900.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 181425400.0,
+      "institution": 8108029400.0,
+      "individual": -8239685700.0,
+      "ownership_5d_change": 0.0
     }
   },
   "008770": {
-    "2026-03-04": {
-      "foreign": -551911600.0,
-      "institution": 238030275.0,
-      "individual": -542965525.0
-    },
     "2026-03-05": {
       "foreign": -51918975.0,
       "institution": -3120083075.0,
@@ -13026,14 +13063,15 @@
       "institution": 616945850.0,
       "individual": -308420850.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -848811850.0,
+      "institution": 5059365650.0,
+      "individual": -4144919100.0,
+      "ownership_5d_change": 0.0
     }
   },
   "009150": {
-    "2026-03-04": {
-      "foreign": 58718040000.0,
-      "institution": -64712628750.0,
-      "individual": 4970854750.0
-    },
     "2026-03-05": {
       "foreign": -1473936000.0,
       "institution": -13255182750.0,
@@ -13329,14 +13367,15 @@
       "institution": -54741589500.0,
       "individual": -10266293500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -175103088000.0,
+      "institution": -46095167500.0,
+      "individual": 220091614500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "009420": {
-    "2026-03-04": {
-      "foreign": -327527200.0,
-      "institution": 46585350.0,
-      "individual": 183207250.0
-    },
     "2026-03-05": {
       "foreign": 2652116100.0,
       "institution": 5534927900.0,
@@ -13632,14 +13671,15 @@
       "institution": -3479295400.0,
       "individual": 12920781950.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5676399250.0,
+      "institution": -825221350.0,
+      "individual": -4960783800.0,
+      "ownership_5d_change": 0.0
     }
   },
   "009540": {
-    "2026-03-04": {
-      "foreign": 12342044500.0,
-      "institution": -5946102000.0,
-      "individual": -5691119500.0
-    },
     "2026-03-05": {
       "foreign": -1456171500.0,
       "institution": -8164694250.0,
@@ -13935,14 +13975,15 @@
       "institution": 3589622750.0,
       "individual": -3516929500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 4671680750.0,
+      "institution": -13061394750.0,
+      "individual": 9051123000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "009830": {
-    "2026-03-04": {
-      "foreign": 59238058050.0,
-      "institution": -11669619150.0,
-      "individual": -47561208200.0
-    },
     "2026-03-05": {
       "foreign": 1256348525.0,
       "institution": 2669160800.0,
@@ -14238,14 +14279,15 @@
       "institution": -7960171025.0,
       "individual": -7403352725.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 10145998525.0,
+      "institution": 2225426000.0,
+      "individual": -12600351175.0,
+      "ownership_5d_change": 0.0
     }
   },
   "010060": {
-    "2026-03-04": {
-      "foreign": 4646055300.0,
-      "institution": -3545753750.0,
-      "individual": -1059631950.0
-    },
     "2026-03-05": {
       "foreign": -441284050.0,
       "institution": -529694300.0,
@@ -14541,14 +14583,15 @@
       "institution": -1173958500.0,
       "individual": 8225702000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -1062854250.0,
+      "institution": -1459634000.0,
+      "individual": 2473961750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "010120": {
-    "2026-02-26": {
-      "foreign": -8597220000.0,
-      "institution": 23368967000.0,
-      "individual": -14163313000.0
-    },
     "2026-02-27": {
       "foreign": -43550550500.0,
       "institution": 16094863500.0,
@@ -14844,14 +14887,15 @@
       "institution": -42732405000.0,
       "individual": 6473340750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 96215718750.0,
+      "institution": 28182142750.0,
+      "individual": -126412665000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "010130": {
-    "2026-03-04": {
-      "foreign": -2633035500.0,
-      "institution": -4612298000.0,
-      "individual": 7511775500.0
-    },
     "2026-03-05": {
       "foreign": 4132686000.0,
       "institution": -11401065000.0,
@@ -15147,14 +15191,15 @@
       "institution": 1826193000.0,
       "individual": -3115693000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 9921321000.0,
+      "institution": -1408354000.0,
+      "individual": -8373922000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "010140": {
-    "2026-03-04": {
-      "foreign": 37548442000.0,
-      "institution": -6613692475.0,
-      "individual": -33633005175.0
-    },
     "2026-03-05": {
       "foreign": 29792698725.0,
       "institution": 1601227375.0,
@@ -15450,14 +15495,15 @@
       "institution": -5796354575.0,
       "individual": 15036274425.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2234971550.0,
+      "institution": -6829349250.0,
+      "individual": 4931310975.0,
+      "ownership_5d_change": 0.0
     }
   },
   "010170": {
-    "2026-03-04": {
-      "foreign": 3101789076.0,
-      "institution": -745827522.0,
-      "individual": -2549238874.0
-    },
     "2026-03-05": {
       "foreign": 15179183017.0,
       "institution": 1049071007.0,
@@ -15753,14 +15799,15 @@
       "institution": -2786173850.0,
       "individual": 15419536925.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 33646294775.0,
+      "institution": -1041634050.0,
+      "individual": -33196189800.0,
+      "ownership_5d_change": 0.0
     }
   },
   "010820": {
-    "2026-03-04": {
-      "foreign": 3224425725.0,
-      "institution": -47827410.0,
-      "individual": -3147782575.0
-    },
     "2026-03-05": {
       "foreign": 6671225725.0,
       "institution": -182811220.0,
@@ -16056,14 +16103,15 @@
       "institution": -1311403580.0,
       "individual": 27797340.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2998241455.0,
+      "institution": -106535190.0,
+      "individual": -2909764035.0,
+      "ownership_5d_change": 0.0
     }
   },
   "010950": {
-    "2026-03-04": {
-      "foreign": -254032669450.0,
-      "institution": -97234100250.0,
-      "individual": 354164214000.0
-    },
     "2026-03-05": {
       "foreign": 28814163950.0,
       "institution": 13321937850.0,
@@ -16359,14 +16407,15 @@
       "institution": -552796850.0,
       "individual": -2409963300.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 31469881000.0,
+      "institution": -25549875000.0,
+      "individual": -4200325800.0,
+      "ownership_5d_change": 0.0
     }
   },
   "011070": {
-    "2026-03-04": {
-      "foreign": 13504454500.0,
-      "institution": -2980466250.0,
-      "individual": -10732145250.0
-    },
     "2026-03-05": {
       "foreign": -6578543250.0,
       "institution": -5283483500.0,
@@ -16662,14 +16711,15 @@
       "institution": 121740334500.0,
       "individual": -46218997000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -475810813500.0,
+      "institution": -90546347000.0,
+      "individual": 561974798500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "011170": {
-    "2026-03-04": {
-      "foreign": -1144965600.0,
-      "institution": -3104418550.0,
-      "individual": 4339495350.0
-    },
     "2026-03-05": {
       "foreign": -8019565750.0,
       "institution": -7554591800.0,
@@ -16965,14 +17015,15 @@
       "institution": -1593481700.0,
       "individual": -303749100.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3142713100.0,
+      "institution": -2317744200.0,
+      "individual": -794347800.0,
+      "ownership_5d_change": 0.0
     }
   },
   "011200": {
-    "2026-03-04": {
-      "foreign": -3917920800.0,
-      "institution": -4168011035.0,
-      "individual": -3438540815.0
-    },
     "2026-03-05": {
       "foreign": 8348235925.0,
       "institution": -6479161175.0,
@@ -17268,14 +17319,15 @@
       "institution": -859965120.0,
       "individual": 3348933810.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 9251519445.0,
+      "institution": -797627555.0,
+      "individual": -8605654630.0,
+      "ownership_5d_change": 0.0
     }
   },
   "011210": {
-    "2026-03-04": {
-      "foreign": -2389512250.0,
-      "institution": 1369821400.0,
-      "individual": 743103850.0
-    },
     "2026-03-05": {
       "foreign": -4840527000.0,
       "institution": 13056374750.0,
@@ -17571,14 +17623,15 @@
       "institution": 2941802750.0,
       "individual": -20957950.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -1659101950.0,
+      "institution": 1277438800.0,
+      "individual": 451929750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "011790": {
-    "2026-03-04": {
-      "foreign": -13160990250.0,
-      "institution": -7507919650.0,
-      "individual": 20400235900.0
-    },
     "2026-03-05": {
       "foreign": 4306782850.0,
       "institution": -2601782400.0,
@@ -17874,14 +17927,15 @@
       "institution": -8120949750.0,
       "individual": 21095998050.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 87071009975.0,
+      "institution": -104879150925.0,
+      "individual": 15195055150.0,
+      "ownership_5d_change": 0.0
     }
   },
   "012330": {
-    "2026-03-04": {
-      "foreign": 15623248250.0,
-      "institution": -20686251750.0,
-      "individual": 3745975000.0
-    },
     "2026-03-05": {
       "foreign": 4212583250.0,
       "institution": -30737214000.0,
@@ -18177,14 +18231,15 @@
       "institution": 142151151500.0,
       "individual": 32869819500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -386439198500.0,
+      "institution": 73074491500.0,
+      "individual": 298902071000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "012450": {
-    "2026-03-04": {
-      "foreign": -61192489000.0,
-      "institution": -47399713500.0,
-      "individual": 113907760000.0
-    },
     "2026-03-05": {
       "foreign": -19797325500.0,
       "institution": -12254060500.0,
@@ -18480,14 +18535,15 @@
       "institution": -724302000.0,
       "individual": 16691818500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 85884140000.0,
+      "institution": -59623261500.0,
+      "individual": -25356508000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "014680": {
-    "2026-03-04": {
-      "foreign": 5339430750.0,
-      "institution": -1620953250.0,
-      "individual": -3951018500.0
-    },
     "2026-03-05": {
       "foreign": -2850683500.0,
       "institution": -4480323250.0,
@@ -18783,14 +18839,15 @@
       "institution": -4236853000.0,
       "individual": 1699753000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -494998500.0,
+      "institution": -2111901500.0,
+      "individual": -115355000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "015760": {
-    "2026-03-04": {
-      "foreign": 51519768700.0,
-      "institution": -2757147050.0,
-      "individual": -44755620100.0
-    },
     "2026-03-05": {
       "foreign": -26846189550.0,
       "institution": -63248863075.0,
@@ -19086,14 +19143,15 @@
       "institution": 5855233775.0,
       "individual": 1880732625.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 6769813600.0,
+      "institution": -8497472625.0,
+      "individual": 1952048550.0,
+      "ownership_5d_change": 0.0
     }
   },
   "016360": {
-    "2026-03-04": {
-      "foreign": 15855019000.0,
-      "institution": -3965349350.0,
-      "individual": -11101484950.0
-    },
     "2026-03-05": {
       "foreign": -7871822300.0,
       "institution": 11443183750.0,
@@ -19389,14 +19447,15 @@
       "institution": -3847208400.0,
       "individual": 6950437600.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -1445908300.0,
+      "institution": 2601197750.0,
+      "individual": -2467964050.0,
+      "ownership_5d_change": 0.0
     }
   },
   "017670": {
-    "2026-03-04": {
-      "foreign": 34224391500.0,
-      "institution": -6386494300.0,
-      "individual": -28653602900.0
-    },
     "2026-03-05": {
       "foreign": 43922065100.0,
       "institution": -22910101250.0,
@@ -19692,14 +19751,15 @@
       "institution": 12702516250.0,
       "individual": 5442129450.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -83178475900.0,
+      "institution": -25415027250.0,
+      "individual": 105523505050.0,
+      "ownership_5d_change": 0.0
     }
   },
   "017800": {
-    "2026-03-04": {
-      "foreign": 8786645500.0,
-      "institution": 929083450.0,
-      "individual": -9527241150.0
-    },
     "2026-03-05": {
       "foreign": -2409282300.0,
       "institution": -2891867200.0,
@@ -19995,14 +20055,15 @@
       "institution": -2045815050.0,
       "individual": 3234554900.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 4581910200.0,
+      "institution": -7209950400.0,
+      "individual": 2695519200.0,
+      "ownership_5d_change": 0.0
     }
   },
   "017900": {
-    "2026-02-27": {
-      "foreign": -106007835.0,
-      "institution": 560839.0,
-      "individual": 105450858.0
-    },
     "2026-03-03": {
       "foreign": 114979215.0,
       "institution": 175982.0,
@@ -20298,14 +20359,15 @@
       "institution": -1439090.0,
       "individual": -1905670215.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 1414296365.0,
+      "institution": -1831635.0,
+      "individual": -1396043585.0,
+      "ownership_5d_change": 0.0
     }
   },
   "017960": {
-    "2026-03-04": {
-      "foreign": 6425186525.0,
-      "institution": 201552450.0,
-      "individual": -6348834125.0
-    },
     "2026-03-05": {
       "foreign": 941266525.0,
       "institution": -2812502275.0,
@@ -20601,14 +20663,15 @@
       "institution": -1990229875.0,
       "individual": 2107757500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5059487000.0,
+      "institution": -2736503475.0,
+      "individual": -2234278925.0,
+      "ownership_5d_change": 0.0
     }
   },
   "018260": {
-    "2026-03-04": {
-      "foreign": 3790960900.0,
-      "institution": -9662800200.0,
-      "individual": 6538829900.0
-    },
     "2026-03-05": {
       "foreign": 5008005550.0,
       "institution": -7240750650.0,
@@ -20904,14 +20967,15 @@
       "institution": 21067695000.0,
       "individual": 95653913250.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -7782150500.0,
+      "institution": -32294396250.0,
+      "individual": -15680301500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "018880": {
-    "2026-03-04": {
-      "foreign": 16623646867.0,
-      "institution": -8070446022.0,
-      "individual": -8816726461.0
-    },
     "2026-03-05": {
       "foreign": 4389817058.0,
       "institution": -1163033470.0,
@@ -21207,14 +21271,15 @@
       "institution": 622270620.0,
       "individual": -41923269575.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -5389356800.0,
+      "institution": -241399880.0,
+      "individual": 5712669770.0,
+      "ownership_5d_change": 0.0
     }
   },
   "020150": {
-    "2026-03-04": {
-      "foreign": 6383932750.0,
-      "institution": -6802045725.0,
-      "individual": 402758225.0
-    },
     "2026-03-05": {
       "foreign": 1997644100.0,
       "institution": -2432509950.0,
@@ -21510,14 +21575,15 @@
       "institution": 1549475050.0,
       "individual": -1598213700.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -4284354400.0,
+      "institution": 1490869650.0,
+      "individual": 2554097300.0,
+      "ownership_5d_change": 0.0
     }
   },
   "021240": {
-    "2026-03-04": {
-      "foreign": -6723895750.0,
-      "institution": 9224933950.0,
-      "individual": -2402883500.0
-    },
     "2026-03-05": {
       "foreign": -309777650.0,
       "institution": -4449526850.0,
@@ -21813,14 +21879,15 @@
       "institution": -5318893000.0,
       "individual": -556076400.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2772652500.0,
+      "institution": -4014979250.0,
+      "individual": -721807100.0,
+      "ownership_5d_change": 0.0
     }
   },
   "024110": {
-    "2026-03-04": {
-      "foreign": 7341415300.0,
-      "institution": -3011962200.0,
-      "individual": -5372990200.0
-    },
     "2026-03-05": {
       "foreign": -6675303825.0,
       "institution": -1234722125.0,
@@ -22116,14 +22183,15 @@
       "institution": -5379182300.0,
       "individual": 10032467950.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 15304711125.0,
+      "institution": -12692656725.0,
+      "individual": -591512100.0,
+      "ownership_5d_change": 0.0
     }
   },
   "025860": {
-    "2026-03-04": {
-      "foreign": 237950260.0,
-      "institution": -2804930.0,
-      "individual": -296113970.0
-    },
     "2026-03-05": {
       "foreign": 119122170.0,
       "institution": -9346260.0,
@@ -22419,14 +22487,15 @@
       "institution": -64220280.0,
       "individual": -996790410.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 506235985.0,
+      "institution": -3109470.0,
+      "individual": -508915815.0,
+      "ownership_5d_change": 0.0
     }
   },
   "027360": {
-    "2026-03-04": {
-      "foreign": 905298307.0,
-      "institution": 1323065.0,
-      "individual": -971580652.0
-    },
     "2026-03-05": {
       "foreign": 3327441977.0,
       "institution": -926050.0,
@@ -22722,14 +22791,15 @@
       "institution": -210614395.0,
       "individual": -8574083075.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5701232085.0,
+      "institution": -831056505.0,
+      "individual": -4729304670.0,
+      "ownership_5d_change": 0.0
     }
   },
   "028050": {
-    "2026-03-04": {
-      "foreign": 19141233800.0,
-      "institution": -3699922775.0,
-      "individual": -15584986325.0
-    },
     "2026-03-05": {
       "foreign": 6368291400.0,
       "institution": -3089735950.0,
@@ -23025,14 +23095,15 @@
       "institution": 4287595800.0,
       "individual": 17890309300.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 11885774800.0,
+      "institution": -16172578025.0,
+      "individual": 4549382275.0,
+      "ownership_5d_change": 0.0
     }
   },
   "028260": {
-    "2026-03-04": {
-      "foreign": 39990822000.0,
-      "institution": -21045671000.0,
-      "individual": -10010592000.0
-    },
     "2026-03-05": {
       "foreign": 7769953000.0,
       "institution": -19613055750.0,
@@ -23328,14 +23399,15 @@
       "institution": 32196297250.0,
       "individual": -33196662250.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -1789851000.0,
+      "institution": 63410515250.0,
+      "individual": -53873206750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "028300": {
-    "2026-03-04": {
-      "foreign": -13688890950.0,
-      "institution": 1976670800.0,
-      "individual": 11634517250.0
-    },
     "2026-03-05": {
       "foreign": 3317805300.0,
       "institution": 12653468150.0,
@@ -23631,14 +23703,15 @@
       "institution": 6322687775.0,
       "individual": -2997401475.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -2728144950.0,
+      "institution": 8826887600.0,
+      "individual": -5919604750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "028670": {
-    "2026-03-04": {
-      "foreign": -3968071453.0,
-      "institution": 4383417448.0,
-      "individual": -1404329300.0
-    },
     "2026-03-05": {
       "foreign": 3235094330.0,
       "institution": 7463934240.0,
@@ -23934,14 +24007,15 @@
       "institution": 381766750.0,
       "individual": -809653600.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 436671240.0,
+      "institution": -2815371870.0,
+      "individual": 2282977820.0,
+      "ownership_5d_change": 0.0
     }
   },
   "030200": {
-    "2026-03-04": {
-      "foreign": -27381950.0,
-      "institution": -490970850.0,
-      "individual": 1436443700.0
-    },
     "2026-03-05": {
       "foreign": -39867450.0,
       "institution": 2138128250.0,
@@ -24237,14 +24311,15 @@
       "institution": 1566784050.0,
       "individual": -2017218600.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 183386500.0,
+      "institution": -2803287150.0,
+      "individual": 2611735550.0,
+      "ownership_5d_change": 0.0
     }
   },
   "030530": {
-    "2026-03-04": {
-      "foreign": 28223830575.0,
-      "institution": 454915525.0,
-      "individual": -28700042600.0
-    },
     "2026-03-05": {
       "foreign": 6461915850.0,
       "institution": 10378825.0,
@@ -24540,14 +24615,15 @@
       "institution": -915664225.0,
       "individual": 240795500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -1608156575.0,
+      "institution": 585537600.0,
+      "individual": 1147713025.0,
+      "ownership_5d_change": 0.0
     }
   },
   "031980": {
-    "2026-03-04": {
-      "foreign": 5037273950.0,
-      "institution": 10306530700.0,
-      "individual": -15011861750.0
-    },
     "2026-03-05": {
       "foreign": -260909000.0,
       "institution": 7192495950.0,
@@ -24843,14 +24919,15 @@
       "institution": -8093910250.0,
       "individual": 2785357950.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 1744290850.0,
+      "institution": -2340198050.0,
+      "individual": 393207150.0,
+      "ownership_5d_change": 0.0
     }
   },
   "032500": {
-    "2026-03-04": {
-      "foreign": 187407775.0,
-      "institution": 762666450.0,
-      "individual": -1029290195.0
-    },
     "2026-03-05": {
       "foreign": -53285840.0,
       "institution": 1028489290.0,
@@ -25146,14 +25223,15 @@
       "institution": 969469675.0,
       "individual": -1858368500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 66362050.0,
+      "institution": 1066053250.0,
+      "individual": -1109014475.0,
+      "ownership_5d_change": 0.0
     }
   },
   "032820": {
-    "2026-03-04": {
-      "foreign": 5287489880.0,
-      "institution": -579318795.0,
-      "individual": -4439228055.0
-    },
     "2026-03-05": {
       "foreign": 48784600760.0,
       "institution": -2617297425.0,
@@ -25449,14 +25527,15 @@
       "institution": 1658927355.0,
       "individual": -16231521120.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 6384813650.0,
+      "institution": 4061519115.0,
+      "individual": -10494720565.0,
+      "ownership_5d_change": 0.0
     }
   },
   "032830": {
-    "2026-03-04": {
-      "foreign": 44282509150.0,
-      "institution": -29939043750.0,
-      "individual": -13827688800.0
-    },
     "2026-03-05": {
       "foreign": 22837149750.0,
       "institution": -16745461000.0,
@@ -25752,14 +25831,15 @@
       "institution": 17222717250.0,
       "individual": -7441987500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 8074284250.0,
+      "institution": 26447472500.0,
+      "individual": -32929640000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "033100": {
-    "2026-03-04": {
-      "foreign": 5029640775.0,
-      "institution": -90369950.0,
-      "individual": -4937519325.0
-    },
     "2026-03-05": {
       "foreign": 364514700.0,
       "institution": 1590881675.0,
@@ -26055,14 +26135,15 @@
       "institution": -1334176150.0,
       "individual": -419134000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 826260200.0,
+      "institution": 1857699750.0,
+      "individual": -2684115350.0,
+      "ownership_5d_change": 0.0
     }
   },
   "033160": {
-    "2026-03-04": {
-      "foreign": 142432970.0,
-      "institution": 2231230.0,
-      "individual": -148040205.0
-    },
     "2026-03-05": {
       "foreign": 673036205.0,
       "institution": -929640.0,
@@ -26358,14 +26439,15 @@
       "institution": -4854465950.0,
       "individual": 3759361525.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 214619975.0,
+      "institution": -1786503625.0,
+      "individual": 1375732725.0,
+      "ownership_5d_change": 0.0
     }
   },
   "033780": {
-    "2026-03-04": {
-      "foreign": 25246436250.0,
-      "institution": -16042164200.0,
-      "individual": -9049762850.0
-    },
     "2026-03-05": {
       "foreign": 16856821650.0,
       "institution": -20238389750.0,
@@ -26661,14 +26743,15 @@
       "institution": -178824800.0,
       "individual": -4510998650.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 13937749050.0,
+      "institution": -9628369150.0,
+      "individual": -5005660000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "033790": {
-    "2026-03-04": {
-      "foreign": -185669420.0,
-      "institution": 32860165.0,
-      "individual": -4143965.0
-    },
     "2026-03-05": {
       "foreign": -225957385.0,
       "institution": 0.0,
@@ -26964,14 +27047,15 @@
       "institution": 348482505.0,
       "individual": -1967294305.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3664352765.0,
+      "institution": -419677000.0,
+      "individual": -3003254175.0,
+      "ownership_5d_change": 0.0
     }
   },
   "034020": {
-    "2026-03-04": {
-      "foreign": 12880541250.0,
-      "institution": -36116047300.0,
-      "individual": 24265468150.0
-    },
     "2026-03-05": {
       "foreign": -67801033800.0,
       "institution": -31294736650.0,
@@ -27267,14 +27351,15 @@
       "institution": 956402150.0,
       "individual": 1827428750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -5124359950.0,
+      "institution": -10410486600.0,
+      "individual": 15938058050.0,
+      "ownership_5d_change": 0.0
     }
   },
   "034220": {
-    "2026-03-04": {
-      "foreign": -13853408925.0,
-      "institution": -3286095450.0,
-      "individual": 17845606555.0
-    },
     "2026-03-05": {
       "foreign": -14065913665.0,
       "institution": -8557794870.0,
@@ -27570,14 +27655,15 @@
       "institution": 6665985550.0,
       "individual": -9592606830.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -104389305190.0,
+      "institution": -11474272495.0,
+      "individual": 114568016425.0,
+      "ownership_5d_change": 0.0
     }
   },
   "034730": {
-    "2026-03-04": {
-      "foreign": 10855880500.0,
-      "institution": 29990574000.0,
-      "individual": -37518498500.0
-    },
     "2026-03-05": {
       "foreign": -18911046250.0,
       "institution": 17687644500.0,
@@ -27873,14 +27959,15 @@
       "institution": 24021085000.0,
       "individual": 1396402500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 8068564500.0,
+      "institution": -12017670000.0,
+      "individual": 2393972000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "035420": {
-    "2026-03-04": {
-      "foreign": 58356882000.0,
-      "institution": -30018702250.0,
-      "individual": -29562841750.0
-    },
     "2026-03-05": {
       "foreign": -66131544750.0,
       "institution": -40903241750.0,
@@ -28176,14 +28263,15 @@
       "institution": 205248653000.0,
       "individual": -240965796250.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -307074360750.0,
+      "institution": 176025655250.0,
+      "individual": 149584618250.0,
+      "ownership_5d_change": 0.0
     }
   },
   "035720": {
-    "2026-03-04": {
-      "foreign": -15338737475.0,
-      "institution": -37767510800.0,
-      "individual": 53106757375.0
-    },
     "2026-03-05": {
       "foreign": -27203308500.0,
       "institution": -22639399850.0,
@@ -28479,14 +28567,15 @@
       "institution": 174920725.0,
       "individual": 1891896075.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -140564985875.0,
+      "institution": -24258314975.0,
+      "individual": 164517298750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "036540": {
-    "2026-03-04": {
-      "foreign": 6689414435.0,
-      "institution": -82145020.0,
-      "individual": -6379390430.0
-    },
     "2026-03-05": {
       "foreign": 6169080095.0,
       "institution": 1518007165.0,
@@ -28782,14 +28871,15 @@
       "institution": -1536389510.0,
       "individual": 1744791210.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -777005115.0,
+      "institution": -902323270.0,
+      "individual": 1433322175.0,
+      "ownership_5d_change": 0.0
     }
   },
   "036570": {
-    "2026-03-04": {
-      "foreign": 3506272400.0,
-      "institution": 3796751150.0,
-      "individual": -6511652550.0
-    },
     "2026-03-05": {
       "foreign": -1223442050.0,
       "institution": -2025993200.0,
@@ -29085,14 +29175,15 @@
       "institution": 1057297750.0,
       "individual": -2705343250.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 661501000.0,
+      "institution": 1506730000.0,
+      "individual": -1528032250.0,
+      "ownership_5d_change": 0.0
     }
   },
   "036930": {
-    "2026-03-04": {
-      "foreign": -7514557250.0,
-      "institution": 1745770500.0,
-      "individual": -2471457650.0
-    },
     "2026-03-05": {
       "foreign": 22038187750.0,
       "institution": 10603673450.0,
@@ -29388,14 +29479,15 @@
       "institution": -21818722250.0,
       "individual": 50406239000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 24140553350.0,
+      "institution": -14427582450.0,
+      "individual": -10079815950.0,
+      "ownership_5d_change": 0.0
     }
   },
   "038500": {
-    "2026-03-04": {
-      "foreign": 12919877470.0,
-      "institution": 179967980.0,
-      "individual": -12774916290.0
-    },
     "2026-03-05": {
       "foreign": 179221530.0,
       "institution": -162782785.0,
@@ -29691,14 +29783,15 @@
       "institution": -56205645.0,
       "individual": -1406431990.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 4320757145.0,
+      "institution": 50253340.0,
+      "individual": -4365761575.0,
+      "ownership_5d_change": 0.0
     }
   },
   "039030": {
-    "2026-03-04": {
-      "foreign": -7842459000.0,
-      "institution": 3871212500.0,
-      "individual": 4321918000.0
-    },
     "2026-03-05": {
       "foreign": 11128618000.0,
       "institution": 21040138750.0,
@@ -29994,14 +30087,15 @@
       "institution": -26953216750.0,
       "individual": 8088228750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 17083609750.0,
+      "institution": -23616809000.0,
+      "individual": 6193813750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "039490": {
-    "2026-03-04": {
-      "foreign": 7565784500.0,
-      "institution": -5025893500.0,
-      "individual": -2717419500.0
-    },
     "2026-03-05": {
       "foreign": -773158250.0,
       "institution": 12068245250.0,
@@ -30297,14 +30391,15 @@
       "institution": -6378817750.0,
       "individual": 1386449500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 13000068750.0,
+      "institution": -1085813000.0,
+      "individual": -11934857500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "042660": {
-    "2026-03-04": {
-      "foreign": -14346924550.0,
-      "institution": -8927913100.0,
-      "individual": 24347600800.0
-    },
     "2026-03-05": {
       "foreign": -1793304050.0,
       "institution": -24848324300.0,
@@ -30600,14 +30695,15 @@
       "institution": -4996845750.0,
       "individual": 9473657300.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3735352050.0,
+      "institution": -1538201950.0,
+      "individual": 2720730050.0,
+      "ownership_5d_change": 0.0
     }
   },
   "042700": {
-    "2026-03-04": {
-      "foreign": -94740001750.0,
-      "institution": 18926335500.0,
-      "individual": 73302910750.0
-    },
     "2026-03-05": {
       "foreign": 57433478000.0,
       "institution": 99208073000.0,
@@ -30903,14 +30999,15 @@
       "institution": -115054256000.0,
       "individual": 127779722750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 8800258750.0,
+      "institution": -32940431250.0,
+      "individual": 22862907000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "043260": {
-    "2026-03-04": {
-      "foreign": -6498993925.0,
-      "institution": 38474500.0,
-      "individual": 5350394050.0
-    },
     "2026-03-05": {
       "foreign": 5823912900.0,
       "institution": 5053414875.0,
@@ -31206,14 +31303,15 @@
       "institution": -4319282700.0,
       "individual": -3587930425.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -10504846425.0,
+      "institution": 8427014725.0,
+      "individual": 2134712575.0,
+      "ownership_5d_change": 0.0
     }
   },
   "044490": {
-    "2026-03-04": {
-      "foreign": 130248575.0,
-      "institution": 1212669800.0,
-      "individual": -1229854525.0
-    },
     "2026-03-05": {
       "foreign": -458347700.0,
       "institution": 5542828950.0,
@@ -31509,14 +31607,15 @@
       "institution": -2316191550.0,
       "individual": 1154474475.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3927492650.0,
+      "institution": -5117287325.0,
+      "individual": 1193890175.0,
+      "ownership_5d_change": 0.0
     }
   },
   "046890": {
-    "2026-03-04": {
-      "foreign": 2840808830.0,
-      "institution": 362701590.0,
-      "individual": -3121154320.0
-    },
     "2026-03-05": {
       "foreign": 1054840540.0,
       "institution": 435628940.0,
@@ -31812,14 +31911,15 @@
       "institution": 532969490.0,
       "individual": -2271318755.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 163726900.0,
+      "institution": 885776735.0,
+      "individual": -1058085405.0,
+      "ownership_5d_change": 0.0
     }
   },
   "046970": {
-    "2026-02-26": {
-      "foreign": -367719574.0,
-      "institution": -1130166.0,
-      "individual": 327089470.0
-    },
     "2026-02-27": {
       "foreign": -145874297.0,
       "institution": 0.0,
@@ -32115,14 +32215,15 @@
       "institution": -10500.0,
       "individual": 252212325.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2388286000.0,
+      "institution": 1816190.0,
+      "individual": -2317702510.0,
+      "ownership_5d_change": 0.0
     }
   },
   "047040": {
-    "2026-03-04": {
-      "foreign": 39936747575.0,
-      "institution": -6198050985.0,
-      "individual": -33764205230.0
-    },
     "2026-03-05": {
       "foreign": -18379088820.0,
       "institution": 1445561135.0,
@@ -32418,14 +32519,15 @@
       "institution": 2256351275.0,
       "individual": 13831126100.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 59224226025.0,
+      "institution": -2752958400.0,
+      "individual": -53764296350.0,
+      "ownership_5d_change": 0.0
     }
   },
   "047050": {
-    "2026-03-04": {
-      "foreign": 2230890850.0,
-      "institution": 5895429550.0,
-      "individual": -8722078200.0
-    },
     "2026-03-05": {
       "foreign": 6457345800.0,
       "institution": -2982478650.0,
@@ -32721,14 +32823,15 @@
       "institution": -12064817850.0,
       "individual": -1913060150.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 17792811200.0,
+      "institution": -20769134550.0,
+      "individual": 3842938500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "047810": {
-    "2026-03-04": {
-      "foreign": 53338451450.0,
-      "institution": -21372201650.0,
-      "individual": -28856317200.0
-    },
     "2026-03-05": {
       "foreign": 38547553450.0,
       "institution": -3985012150.0,
@@ -33024,14 +33127,15 @@
       "institution": 12739336700.0,
       "individual": 15608236650.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 7043172050.0,
+      "institution": 15942547350.0,
+      "individual": -23661135900.0,
+      "ownership_5d_change": 0.0
     }
   },
   "048410": {
-    "2026-03-04": {
-      "foreign": 4857424385.0,
-      "institution": 722438625.0,
-      "individual": -5498173470.0
-    },
     "2026-03-05": {
       "foreign": 1074474970.0,
       "institution": -1833109450.0,
@@ -33327,14 +33431,15 @@
       "institution": 1443224375.0,
       "individual": 1689054225.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 1185603215.0,
+      "institution": 1492288645.0,
+      "individual": -2694303550.0,
+      "ownership_5d_change": 0.0
     }
   },
   "050890": {
-    "2026-03-04": {
-      "foreign": 2166777710.0,
-      "institution": 646993690.0,
-      "individual": -2758187950.0
-    },
     "2026-03-05": {
       "foreign": 4509496400.0,
       "institution": 548911285.0,
@@ -33630,14 +33735,15 @@
       "institution": 1403925270.0,
       "individual": -255533255.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 32780770.0,
+      "institution": 1482112030.0,
+      "individual": -1665602290.0,
+      "ownership_5d_change": 0.0
     }
   },
   "051910": {
-    "2026-03-04": {
-      "foreign": 3745276500.0,
-      "institution": -13088262750.0,
-      "individual": 9058533500.0
-    },
     "2026-03-05": {
       "foreign": -30183068250.0,
       "institution": -1747489250.0,
@@ -33933,14 +34039,15 @@
       "institution": 15891171250.0,
       "individual": -30314512750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 18055832250.0,
+      "institution": 1132790000.0,
+      "individual": -19395208750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "052690": {
-    "2026-03-04": {
-      "foreign": 14202087500.0,
-      "institution": -3980808150.0,
-      "individual": -11240715250.0
-    },
     "2026-03-05": {
       "foreign": -13578536550.0,
       "institution": 1585527450.0,
@@ -34236,14 +34343,15 @@
       "institution": -3738543300.0,
       "individual": -2046966200.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 4187816500.0,
+      "institution": -3957567750.0,
+      "individual": -233262050.0,
+      "ownership_5d_change": 0.0
     }
   },
   "055550": {
-    "2026-03-04": {
-      "foreign": 36338936700.0,
-      "institution": -25946509550.0,
-      "individual": -9980003050.0
-    },
     "2026-03-05": {
       "foreign": 26133127300.0,
       "institution": -30842882550.0,
@@ -34539,14 +34647,15 @@
       "institution": -452547400.0,
       "individual": -4173150000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 11822344950.0,
+      "institution": -6552907900.0,
+      "individual": -5263658550.0,
+      "ownership_5d_change": 0.0
     }
   },
   "058470": {
-    "2026-03-04": {
-      "foreign": -34562018800.0,
-      "institution": 9792194950.0,
-      "individual": 24384600900.0
-    },
     "2026-03-05": {
       "foreign": -6550761200.0,
       "institution": 39579494300.0,
@@ -34842,14 +34951,15 @@
       "institution": -40642084800.0,
       "individual": 14647760150.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 10742152000.0,
+      "institution": -26880382600.0,
+      "individual": 16040796400.0,
+      "ownership_5d_change": 0.0
     }
   },
   "058610": {
-    "2026-03-04": {
-      "foreign": 23473095950.0,
-      "institution": -3217305400.0,
-      "individual": -20002460750.0
-    },
     "2026-03-05": {
       "foreign": 2528806200.0,
       "institution": 10649449550.0,
@@ -35145,14 +35255,15 @@
       "institution": 685195150.0,
       "individual": -508467650.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 9291946800.0,
+      "institution": 4716117500.0,
+      "individual": -14148320900.0,
+      "ownership_5d_change": 0.0
     }
   },
   "062040": {
-    "2026-03-04": {
-      "foreign": -3396799500.0,
-      "institution": -2112940750.0,
-      "individual": 7417923100.0
-    },
     "2026-03-05": {
       "foreign": 2147227350.0,
       "institution": 2144434200.0,
@@ -35448,14 +35559,15 @@
       "institution": -24481061000.0,
       "individual": -4438228500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 7638788000.0,
+      "institution": -9036712500.0,
+      "individual": 2622142750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "064260": {
-    "2026-03-04": {
-      "foreign": 5746377835.0,
-      "institution": -18591360.0,
-      "individual": -5756982465.0
-    },
     "2026-03-05": {
       "foreign": 8284787950.0,
       "institution": 44033855.0,
@@ -35751,14 +35863,15 @@
       "institution": -34717290.0,
       "individual": 675635545.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 456350645.0,
+      "institution": -48127490.0,
+      "individual": -403671155.0,
+      "ownership_5d_change": 0.0
     }
   },
   "064350": {
-    "2026-03-04": {
-      "foreign": 31207566500.0,
-      "institution": -53999164250.0,
-      "individual": 26245965000.0
-    },
     "2026-03-05": {
       "foreign": 86121225750.0,
       "institution": -15844458250.0,
@@ -36054,14 +36167,15 @@
       "institution": -40451134000.0,
       "individual": -191685050.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 64672728000.0,
+      "institution": -8344114200.0,
+      "individual": -56245951800.0,
+      "ownership_5d_change": 0.0
     }
   },
   "064400": {
-    "2026-03-04": {
-      "foreign": -7438008950.0,
-      "institution": -4990991450.0,
-      "individual": 10880323800.0
-    },
     "2026-03-05": {
       "foreign": -8572011200.0,
       "institution": -1846996300.0,
@@ -36357,14 +36471,15 @@
       "institution": 7995401450.0,
       "individual": -86708556000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -119827854100.0,
+      "institution": 5017724150.0,
+      "individual": 114626338800.0,
+      "ownership_5d_change": 0.0
     }
   },
   "064760": {
-    "2026-03-04": {
-      "foreign": 365465350.0,
-      "institution": 3200248050.0,
-      "individual": -1543387500.0
-    },
     "2026-03-05": {
       "foreign": -12458549500.0,
       "institution": 13802960750.0,
@@ -36660,14 +36775,15 @@
       "institution": -12073194500.0,
       "individual": 1445352500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 14284724750.0,
+      "institution": -12847617000.0,
+      "individual": -1384724750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "066570": {
-    "2026-03-04": {
-      "foreign": 48943229650.0,
-      "institution": -19915445150.0,
-      "individual": -28267783600.0
-    },
     "2026-03-05": {
       "foreign": -28120419800.0,
       "institution": -17539006500.0,
@@ -36963,14 +37079,15 @@
       "institution": 122522694000.0,
       "individual": -161804995750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -145542090750.0,
+      "institution": -106261580500.0,
+      "individual": 151616710000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "066970": {
-    "2026-03-04": {
-      "foreign": 3498543500.0,
-      "institution": -6693212550.0,
-      "individual": 3335449750.0
-    },
     "2026-03-05": {
       "foreign": 5385019400.0,
       "institution": -78734850.0,
@@ -37266,14 +37383,15 @@
       "institution": 9302848700.0,
       "individual": 4299633450.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -21286694200.0,
+      "institution": -21229712250.0,
+      "individual": 42088932200.0,
+      "ownership_5d_change": 0.0
     }
   },
   "067310": {
-    "2026-03-04": {
-      "foreign": 8577600750.0,
-      "institution": 2459914975.0,
-      "individual": -11193703425.0
-    },
     "2026-03-05": {
       "foreign": 14022554600.0,
       "institution": 5981277850.0,
@@ -37569,14 +37687,15 @@
       "institution": -11007304750.0,
       "individual": 7791327600.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2298468425.0,
+      "institution": -6199492150.0,
+      "individual": 4529000075.0,
+      "ownership_5d_change": 0.0
     }
   },
   "068270": {
-    "2026-03-04": {
-      "foreign": 90080177850.0,
-      "institution": -7703780050.0,
-      "individual": -86593725200.0
-    },
     "2026-03-05": {
       "foreign": 27248233250.0,
       "institution": -29207301250.0,
@@ -37872,14 +37991,15 @@
       "institution": 2507053950.0,
       "individual": -11640245200.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 16707653800.0,
+      "institution": 945827300.0,
+      "individual": -17898840350.0,
+      "ownership_5d_change": 0.0
     }
   },
   "069540": {
-    "2026-02-27": {
-      "foreign": 156321750.0,
-      "institution": 0.0,
-      "individual": -156293761.0
-    },
     "2026-03-03": {
       "foreign": 463116649.0,
       "institution": 0.0,
@@ -38175,14 +38295,15 @@
       "institution": -16280577845.0,
       "individual": 17427446561.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -560399387.0,
+      "institution": 10804100.0,
+      "individual": 548331567.0,
+      "ownership_5d_change": 0.0
     }
   },
   "071050": {
-    "2026-03-04": {
-      "foreign": 4001336000.0,
-      "institution": 3046128250.0,
-      "individual": -8329979000.0
-    },
     "2026-03-05": {
       "foreign": -22694257250.0,
       "institution": 12846575500.0,
@@ -38478,14 +38599,15 @@
       "institution": -8182300250.0,
       "individual": -1158042250.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3566992250.0,
+      "institution": 7556881000.0,
+      "individual": -10219621250.0,
+      "ownership_5d_change": 0.0
     }
   },
   "071970": {
-    "2026-03-04": {
-      "foreign": 6572875000.0,
-      "institution": -3759074050.0,
-      "individual": -2406014750.0
-    },
     "2026-03-05": {
       "foreign": 2679207550.0,
       "institution": -775794000.0,
@@ -38781,14 +38903,15 @@
       "institution": -2792144250.0,
       "individual": 3751130800.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -421420850.0,
+      "institution": -1032004450.0,
+      "individual": 1392116500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "077360": {
-    "2026-03-04": {
-      "foreign": 1226566325.0,
-      "institution": 481079740.0,
-      "individual": -1472135890.0
-    },
     "2026-03-05": {
       "foreign": 142458695.0,
       "institution": 1260188145.0,
@@ -39084,14 +39207,15 @@
       "institution": -9648411865.0,
       "individual": 3698358165.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 7006439925.0,
+      "institution": -6086030045.0,
+      "individual": -875527280.0,
+      "ownership_5d_change": 0.0
     }
   },
   "077970": {
-    "2026-03-04": {
-      "foreign": 320988650.0,
-      "institution": -1260888025.0,
-      "individual": 879715700.0
-    },
     "2026-03-05": {
       "foreign": 589112175.0,
       "institution": -15297550.0,
@@ -39387,14 +39511,15 @@
       "institution": -4094174900.0,
       "individual": 103942500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 6758078225.0,
+      "institution": -4839389175.0,
+      "individual": -2018296200.0,
+      "ownership_5d_change": 0.0
     }
   },
   "078150": {
-    "2026-03-04": {
-      "foreign": -969910371.0,
-      "institution": -41160.0,
-      "individual": 966409315.0
-    },
     "2026-03-05": {
       "foreign": 1281251682.0,
       "institution": 15592.0,
@@ -39690,14 +39815,15 @@
       "institution": 32480215.0,
       "individual": -2091081888.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -765972636.0,
+      "institution": -17975570.0,
+      "individual": 662350296.0,
+      "ownership_5d_change": 0.0
     }
   },
   "078600": {
-    "2026-03-04": {
-      "foreign": 9719615300.0,
-      "institution": 3107150000.0,
-      "individual": -12428682600.0
-    },
     "2026-03-05": {
       "foreign": 1874015700.0,
       "institution": 22089228400.0,
@@ -39993,14 +40119,15 @@
       "institution": 4747727650.0,
       "individual": 258684300.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 7011113400.0,
+      "institution": -13500640400.0,
+      "individual": 5320221700.0,
+      "ownership_5d_change": 0.0
     }
   },
   "078930": {
-    "2026-03-04": {
-      "foreign": 1381525100.0,
-      "institution": -2924721800.0,
-      "individual": 1497110050.0
-    },
     "2026-03-05": {
       "foreign": 3292756550.0,
       "institution": 4044354500.0,
@@ -40296,14 +40423,15 @@
       "institution": -3546586650.0,
       "individual": 1719434300.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5493425200.0,
+      "institution": -899303500.0,
+      "individual": -4754497350.0,
+      "ownership_5d_change": 0.0
     }
   },
   "079550": {
-    "2026-03-04": {
-      "foreign": -261598139500.0,
-      "institution": -57629526000.0,
-      "individual": 319235563500.0
-    },
     "2026-03-05": {
       "foreign": -143932575500.0,
       "institution": 103699436000.0,
@@ -40599,14 +40727,15 @@
       "institution": -3143831000.0,
       "individual": 462375000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 34094208500.0,
+      "institution": -17881386500.0,
+      "individual": -14224361000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "080220": {
-    "2026-03-04": {
-      "foreign": 16995657100.0,
-      "institution": -899384525.0,
-      "individual": -16750166325.0
-    },
     "2026-03-05": {
       "foreign": 12472856700.0,
       "institution": 2010230300.0,
@@ -40902,14 +41031,15 @@
       "institution": -20235417150.0,
       "individual": 19187943400.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 25234167500.0,
+      "institution": -6288554200.0,
+      "individual": -20096213050.0,
+      "ownership_5d_change": 0.0
     }
   },
   "082740": {
-    "2026-03-04": {
-      "foreign": 11858816150.0,
-      "institution": -6219671925.0,
-      "individual": -5317389475.0
-    },
     "2026-03-05": {
       "foreign": 3847275350.0,
       "institution": -4120250250.0,
@@ -41205,14 +41335,15 @@
       "institution": -10422636200.0,
       "individual": -5715741700.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3966374950.0,
+      "institution": -3383390650.0,
+      "individual": -150791400.0,
+      "ownership_5d_change": 0.0
     }
   },
   "082920": {
-    "2026-03-04": {
-      "foreign": 3303519225.0,
-      "institution": -1673290770.0,
-      "individual": -1667967415.0
-    },
     "2026-03-05": {
       "foreign": 2236541125.0,
       "institution": -1060549885.0,
@@ -41508,14 +41639,15 @@
       "institution": -287660750.0,
       "individual": -1896606800.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5773516250.0,
+      "institution": -1033318950.0,
+      "individual": -4763429500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "083650": {
-    "2026-03-04": {
-      "foreign": 7746830050.0,
-      "institution": -4894191850.0,
-      "individual": -2335079800.0
-    },
     "2026-03-05": {
       "foreign": -21700270850.0,
       "institution": 12077218100.0,
@@ -41811,14 +41943,15 @@
       "institution": -2625670050.0,
       "individual": -725419750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -1472714600.0,
+      "institution": -4503320500.0,
+      "individual": 5716382400.0,
+      "ownership_5d_change": 0.0
     }
   },
   "084370": {
-    "2026-03-04": {
-      "foreign": -1299854250.0,
-      "institution": 1611054800.0,
-      "individual": -242975150.0
-    },
     "2026-03-05": {
       "foreign": 6835169550.0,
       "institution": 6758912050.0,
@@ -42114,14 +42247,15 @@
       "institution": -6994072700.0,
       "individual": 471481800.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 6110053950.0,
+      "institution": -4364559950.0,
+      "individual": -1665702700.0,
+      "ownership_5d_change": 0.0
     }
   },
   "086280": {
-    "2026-03-04": {
-      "foreign": 24678709250.0,
-      "institution": -12393468750.0,
-      "individual": -10688015500.0
-    },
     "2026-03-05": {
       "foreign": 4525495750.0,
       "institution": -67386500.0,
@@ -42417,14 +42551,15 @@
       "institution": 12033462750.0,
       "individual": 4768391750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -27847358500.0,
+      "institution": -20133795750.0,
+      "individual": 47487717500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "086520": {
-    "2026-03-04": {
-      "foreign": 26476108450.0,
-      "institution": -22760788650.0,
-      "individual": -4374411200.0
-    },
     "2026-03-05": {
       "foreign": -3447242350.0,
       "institution": 43790909150.0,
@@ -42720,14 +42855,15 @@
       "institution": 14960834950.0,
       "individual": 7046714150.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -10592115850.0,
+      "institution": -6749446800.0,
+      "individual": 20834642300.0,
+      "ownership_5d_change": 0.0
     }
   },
   "086790": {
-    "2026-03-04": {
-      "foreign": 21301591500.0,
-      "institution": -13871855300.0,
-      "individual": -7423503800.0
-    },
     "2026-03-05": {
       "foreign": -5837143900.0,
       "institution": -4410272350.0,
@@ -43023,14 +43159,15 @@
       "institution": 3363390100.0,
       "individual": 1909887200.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3399236600.0,
+      "institution": -11751700.0,
+      "individual": -3190741850.0,
+      "ownership_5d_change": 0.0
     }
   },
   "087010": {
-    "2026-03-04": {
-      "foreign": 3126135000.0,
-      "institution": 2278027750.0,
-      "individual": -5167400500.0
-    },
     "2026-03-05": {
       "foreign": 6063797750.0,
       "institution": 19085952250.0,
@@ -43326,14 +43463,15 @@
       "institution": 14946748500.0,
       "individual": 842609000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -12785320750.0,
+      "institution": 8628024000.0,
+      "individual": 5631713750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "088350": {
-    "2026-03-04": {
-      "foreign": 14058350468.0,
-      "institution": -619682093.0,
-      "individual": -13178908688.0
-    },
     "2026-03-05": {
       "foreign": -7319468187.0,
       "institution": 1722797000.0,
@@ -43629,14 +43767,15 @@
       "institution": 470245389.0,
       "individual": -907503917.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2670655559.0,
+      "institution": -61599114.0,
+      "individual": -2424561760.0,
+      "ownership_5d_change": 0.0
     }
   },
   "089030": {
-    "2026-03-04": {
-      "foreign": -39037803425.0,
-      "institution": 49185310325.0,
-      "individual": -9948987700.0
-    },
     "2026-03-05": {
       "foreign": 46685913550.0,
       "institution": 15137412050.0,
@@ -43932,14 +44071,15 @@
       "institution": -4502199600.0,
       "individual": -2100798575.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -242805725.0,
+      "institution": -1414824100.0,
+      "individual": 2282571275.0,
+      "ownership_5d_change": 0.0
     }
   },
   "089970": {
-    "2026-03-04": {
-      "foreign": 3341285800.0,
-      "institution": -671599025.0,
-      "individual": -2695871650.0
-    },
     "2026-03-05": {
       "foreign": -2613056825.0,
       "institution": 1574743175.0,
@@ -44235,14 +44375,15 @@
       "institution": -2875880050.0,
       "individual": -1901026300.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5631283550.0,
+      "institution": -5732682500.0,
+      "individual": 139916300.0,
+      "ownership_5d_change": 0.0
     }
   },
   "090430": {
-    "2026-03-04": {
-      "foreign": -5354714250.0,
-      "institution": 10656296500.0,
-      "individual": -5344418300.0
-    },
     "2026-03-05": {
       "foreign": -1507542300.0,
       "institution": -208251550.0,
@@ -44538,14 +44679,15 @@
       "institution": -6329499100.0,
       "individual": 4483962350.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -7389454200.0,
+      "institution": -11494296000.0,
+      "individual": 18210375900.0,
+      "ownership_5d_change": 0.0
     }
   },
   "090460": {
-    "2026-03-04": {
-      "foreign": -2641199740.0,
-      "institution": -225417720.0,
-      "individual": 2598331660.0
-    },
     "2026-03-05": {
       "foreign": 368931220.0,
       "institution": -2091507260.0,
@@ -44841,14 +44983,15 @@
       "institution": -625717125.0,
       "individual": -161626150.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3688435875.0,
+      "institution": -5240018375.0,
+      "individual": 1724481950.0,
+      "ownership_5d_change": 0.0
     }
   },
   "090710": {
-    "2026-03-04": {
-      "foreign": 31397304870.0,
-      "institution": -40859660.0,
-      "individual": -31302007260.0
-    },
     "2026-03-05": {
       "foreign": 10356350625.0,
       "institution": 1227732920.0,
@@ -45144,14 +45287,15 @@
       "institution": 312652955.0,
       "individual": -5084913320.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 10915616720.0,
+      "institution": -1706965690.0,
+      "individual": -9069193850.0,
+      "ownership_5d_change": 0.0
     }
   },
   "092790": {
-    "2026-03-04": {
-      "foreign": 72472090.0,
-      "institution": 102849030.0,
-      "individual": -161228740.0
-    },
     "2026-03-05": {
       "foreign": 666086755.0,
       "institution": -1720740.0,
@@ -45447,14 +45591,15 @@
       "institution": -173622225.0,
       "individual": -379289980.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 555075930.0,
+      "institution": -154477760.0,
+      "individual": -422482360.0,
+      "ownership_5d_change": 0.0
     }
   },
   "093370": {
-    "2026-03-04": {
-      "foreign": 1298146690.0,
-      "institution": -403857435.0,
-      "individual": -747736725.0
-    },
     "2026-03-05": {
       "foreign": 853105295.0,
       "institution": -108908615.0,
@@ -45750,14 +45895,15 @@
       "institution": -450334310.0,
       "individual": -1609224610.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -466371910.0,
+      "institution": 201890695.0,
+      "individual": 265152345.0,
+      "ownership_5d_change": 0.0
     }
   },
   "095340": {
-    "2026-03-04": {
-      "foreign": -648974000.0,
-      "institution": 4931142500.0,
-      "individual": -4194273300.0
-    },
     "2026-03-05": {
       "foreign": 9561927200.0,
       "institution": 8155257650.0,
@@ -46053,14 +46199,15 @@
       "institution": -19789881250.0,
       "individual": 4227142500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 11496847200.0,
+      "institution": -12102362950.0,
+      "individual": 660860500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "095610": {
-    "2026-03-04": {
-      "foreign": -731066200.0,
-      "institution": 306918250.0,
-      "individual": 614709850.0
-    },
     "2026-03-05": {
       "foreign": 9758636450.0,
       "institution": 4176688300.0,
@@ -46356,14 +46503,15 @@
       "institution": 8690155850.0,
       "individual": -2894198800.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 15023287750.0,
+      "institution": -17744181250.0,
+      "individual": 2733894100.0,
+      "ownership_5d_change": 0.0
     }
   },
   "096770": {
-    "2026-03-04": {
-      "foreign": 13151946900.0,
-      "institution": -2589486900.0,
-      "individual": 5340372300.0
-    },
     "2026-03-05": {
       "foreign": 52828662500.0,
       "institution": 23636218250.0,
@@ -46659,14 +46807,15 @@
       "institution": 6954337400.0,
       "individual": -10431420600.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 9584163000.0,
+      "institution": -14291418450.0,
+      "individual": 3812176350.0,
+      "ownership_5d_change": 0.0
     }
   },
   "097230": {
-    "2026-03-04": {
-      "foreign": -2579663605.0,
-      "institution": 68501635.0,
-      "individual": 2878345425.0
-    },
     "2026-03-05": {
       "foreign": 1671194100.0,
       "institution": 208310425.0,
@@ -46962,14 +47111,15 @@
       "institution": -503689550.0,
       "individual": -1287257360.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -337778475.0,
+      "institution": 3378252085.0,
+      "individual": -3057247660.0,
+      "ownership_5d_change": 0.0
     }
   },
   "098460": {
-    "2026-03-04": {
-      "foreign": 18864783175.0,
-      "institution": -2887972750.0,
-      "individual": -14755706025.0
-    },
     "2026-03-05": {
       "foreign": 28118820150.0,
       "institution": -4023472475.0,
@@ -47265,14 +47415,15 @@
       "institution": -554155625.0,
       "individual": -1839885875.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 4338154075.0,
+      "institution": -2701842100.0,
+      "individual": -1704026625.0,
+      "ownership_5d_change": 0.0
     }
   },
   "099320": {
-    "2026-03-04": {
-      "foreign": 12522411900.0,
-      "institution": -4038419700.0,
-      "individual": -8714666800.0
-    },
     "2026-03-05": {
       "foreign": 12089579150.0,
       "institution": -130485000.0,
@@ -47568,14 +47719,15 @@
       "institution": -827512500.0,
       "individual": -4616153700.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 6462585100.0,
+      "institution": -1230366800.0,
+      "individual": -5235801300.0,
+      "ownership_5d_change": 0.0
     }
   },
   "100090": {
-    "2026-03-04": {
-      "foreign": -232160845.0,
-      "institution": -288341410.0,
-      "individual": 444645385.0
-    },
     "2026-03-05": {
       "foreign": 1202946755.0,
       "institution": 35264600.0,
@@ -47871,14 +48023,15 @@
       "institution": -1161123415.0,
       "individual": 58086810.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 979736005.0,
+      "institution": -378608805.0,
+      "individual": -606406280.0,
+      "ownership_5d_change": 0.0
     }
   },
   "100790": {
-    "2026-03-04": {
-      "foreign": 3168373425.0,
-      "institution": -624076470.0,
-      "individual": -1902021335.0
-    },
     "2026-03-05": {
       "foreign": 5808618600.0,
       "institution": -644556330.0,
@@ -48174,14 +48327,15 @@
       "institution": -57892675.0,
       "individual": -11764989875.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 27017854450.0,
+      "institution": -1150657225.0,
+      "individual": -9722242775.0,
+      "ownership_5d_change": 0.0
     }
   },
   "100840": {
-    "2026-03-04": {
-      "foreign": 3315640150.0,
-      "institution": -2305155075.0,
-      "individual": -1486519775.0
-    },
     "2026-03-05": {
       "foreign": 1617866650.0,
       "institution": -886182700.0,
@@ -48477,14 +48631,15 @@
       "institution": -1972554825.0,
       "individual": 2020473300.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 499390375.0,
+      "institution": 92104700.0,
+      "individual": -465730325.0,
+      "ownership_5d_change": 0.0
     }
   },
   "101490": {
-    "2026-03-04": {
-      "foreign": -754836800.0,
-      "institution": -292649750.0,
-      "individual": 1193352150.0
-    },
     "2026-03-05": {
       "foreign": 337414050.0,
       "institution": 6703772350.0,
@@ -48780,14 +48935,15 @@
       "institution": -4470539450.0,
       "individual": -626748600.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -1250718650.0,
+      "institution": 2025290750.0,
+      "individual": -846743100.0,
+      "ownership_5d_change": 0.0
     }
   },
   "103140": {
-    "2026-03-04": {
-      "foreign": -37334856600.0,
-      "institution": 1069213750.0,
-      "individual": 36655988800.0
-    },
     "2026-03-05": {
       "foreign": -13109464600.0,
       "institution": -1833069650.0,
@@ -49083,14 +49239,15 @@
       "institution": -3242161050.0,
       "individual": -904409900.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 9756329300.0,
+      "institution": -7392038650.0,
+      "individual": -2278122950.0,
+      "ownership_5d_change": 0.0
     }
   },
   "103590": {
-    "2026-03-04": {
-      "foreign": 19599225500.0,
-      "institution": -3175349000.0,
-      "individual": -16485657200.0
-    },
     "2026-03-05": {
       "foreign": 639778300.0,
       "institution": 1944207450.0,
@@ -49386,14 +49543,15 @@
       "institution": -7443248200.0,
       "individual": -817527150.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -1720494400.0,
+      "institution": -1846135500.0,
+      "individual": 4012830700.0,
+      "ownership_5d_change": 0.0
     }
   },
   "105560": {
-    "2026-03-04": {
-      "foreign": -6915642350.0,
-      "institution": 26204446950.0,
-      "individual": -17863198300.0
-    },
     "2026-03-05": {
       "foreign": 19816170950.0,
       "institution": -21211232050.0,
@@ -49689,14 +49847,15 @@
       "institution": 9110427650.0,
       "individual": -7255288700.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 19911370000.0,
+      "institution": -5236227200.0,
+      "individual": -14346799350.0,
+      "ownership_5d_change": 0.0
     }
   },
   "105840": {
-    "2026-03-04": {
-      "foreign": 6006082695.0,
-      "institution": -1033158180.0,
-      "individual": -4993382055.0
-    },
     "2026-03-05": {
       "foreign": 1168845600.0,
       "institution": 178378625.0,
@@ -49992,14 +50151,15 @@
       "institution": -970678040.0,
       "individual": -1025946415.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 1866732970.0,
+      "institution": -238972635.0,
+      "individual": -1632993375.0,
+      "ownership_5d_change": 0.0
     }
   },
   "108490": {
-    "2026-03-04": {
-      "foreign": 36122896750.0,
-      "institution": -11969820000.0,
-      "individual": -22644850250.0
-    },
     "2026-03-05": {
       "foreign": -8817959250.0,
       "institution": 5432571750.0,
@@ -50295,14 +50455,15 @@
       "institution": 9810158000.0,
       "individual": -19466350750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 67022083750.0,
+      "institution": 36179967000.0,
+      "individual": -104489860250.0,
+      "ownership_5d_change": 0.0
     }
   },
   "112610": {
-    "2026-03-04": {
-      "foreign": 2888702275.0,
-      "institution": -1269133500.0,
-      "individual": -1454639775.0
-    },
     "2026-03-05": {
       "foreign": 2725661800.0,
       "institution": -614121675.0,
@@ -50598,14 +50759,15 @@
       "institution": -4812849800.0,
       "individual": 999286600.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2323113525.0,
+      "institution": -1495980275.0,
+      "individual": -733688400.0,
+      "ownership_5d_change": 0.0
     }
   },
   "120110": {
-    "2026-03-04": {
-      "foreign": 1055951450.0,
-      "institution": 7120232800.0,
-      "individual": -8472846850.0
-    },
     "2026-03-05": {
       "foreign": 9459550.0,
       "institution": 324878700.0,
@@ -50901,14 +51063,15 @@
       "institution": 485670950.0,
       "individual": -3756108200.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3282812600.0,
+      "institution": -69811150.0,
+      "individual": -3035644100.0,
+      "ownership_5d_change": 0.0
     }
   },
   "126340": {
-    "2026-03-04": {
-      "foreign": 2032529600.0,
-      "institution": -2837732600.0,
-      "individual": 796670000.0
-    },
     "2026-03-05": {
       "foreign": -2155319000.0,
       "institution": 796423450.0,
@@ -51204,14 +51367,15 @@
       "institution": -6199302000.0,
       "individual": 828375450.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 15589876150.0,
+      "institution": -9571680800.0,
+      "individual": -4923208750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "128940": {
-    "2026-03-04": {
-      "foreign": 26426446250.0,
-      "institution": -14023303750.0,
-      "individual": -11691505500.0
-    },
     "2026-03-05": {
       "foreign": 15040060000.0,
       "institution": -6948651000.0,
@@ -51507,14 +51671,15 @@
       "institution": 6229534750.0,
       "individual": 2336135500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -37729434000.0,
+      "institution": 8284165000.0,
+      "individual": 33157396500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "131970": {
-    "2026-03-04": {
-      "foreign": 5432469450.0,
-      "institution": 833535000.0,
-      "individual": -5387821750.0
-    },
     "2026-03-05": {
       "foreign": 218095500.0,
       "institution": 2769603100.0,
@@ -51810,14 +51975,15 @@
       "institution": 15768095100.0,
       "individual": -4693896750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -2175405950.0,
+      "institution": 2626625150.0,
+      "individual": 241744900.0,
+      "ownership_5d_change": 0.0
     }
   },
   "138040": {
-    "2026-03-04": {
-      "foreign": -4778970650.0,
-      "institution": 3281689650.0,
-      "individual": 1232114800.0
-    },
     "2026-03-05": {
       "foreign": -7151209400.0,
       "institution": 2445290000.0,
@@ -52113,14 +52279,15 @@
       "institution": 3592100400.0,
       "individual": -14303865750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 7063142650.0,
+      "institution": 5940521550.0,
+      "individual": -12863282900.0,
+      "ownership_5d_change": 0.0
     }
   },
   "138080": {
-    "2026-03-04": {
-      "foreign": -1072974470.0,
-      "institution": 18667050.0,
-      "individual": 1144671040.0
-    },
     "2026-03-05": {
       "foreign": -549635085.0,
       "institution": 629982100.0,
@@ -52416,14 +52583,15 @@
       "institution": -270274800.0,
       "individual": -1347941075.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 1640089600.0,
+      "institution": -63669025.0,
+      "individual": -1719064425.0,
+      "ownership_5d_change": 0.0
     }
   },
   "139480": {
-    "2026-03-04": {
-      "foreign": 11209220650.0,
-      "institution": -3895939700.0,
-      "individual": -7809254100.0
-    },
     "2026-03-05": {
       "foreign": -569058800.0,
       "institution": -2985239250.0,
@@ -52719,14 +52887,15 @@
       "institution": -1767950500.0,
       "individual": 1574261350.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3483601450.0,
+      "institution": -2640438600.0,
+      "individual": -1129212050.0,
+      "ownership_5d_change": 0.0
     }
   },
   "140410": {
-    "2026-03-04": {
-      "foreign": 2221826100.0,
-      "institution": 2616897850.0,
-      "individual": -4890493300.0
-    },
     "2026-03-05": {
       "foreign": -699446100.0,
       "institution": 6173728100.0,
@@ -53022,14 +53191,15 @@
       "institution": -4863200.0,
       "individual": -1576690700.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5911185300.0,
+      "institution": 443400.0,
+      "individual": -5916157800.0,
+      "ownership_5d_change": 0.0
     }
   },
   "141080": {
-    "2026-03-04": {
-      "foreign": -3591776900.0,
-      "institution": -1046185550.0,
-      "individual": 4072078300.0
-    },
     "2026-03-05": {
       "foreign": 9684780950.0,
       "institution": 17650721300.0,
@@ -53325,14 +53495,15 @@
       "institution": 3159392500.0,
       "individual": 91079250.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 10613828750.0,
+      "institution": -14127214850.0,
+      "individual": 3040031100.0,
+      "ownership_5d_change": 0.0
     }
   },
   "161000": {
-    "2026-03-04": {
-      "foreign": 166198750.0,
-      "institution": -125494700.0,
-      "individual": 3344840.0
-    },
     "2026-03-05": {
       "foreign": 1096648535.0,
       "institution": 1508915.0,
@@ -53628,14 +53799,15 @@
       "institution": -51149210.0,
       "individual": 113886395.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 926094410.0,
+      "institution": 23170395.0,
+      "individual": -936637425.0,
+      "ownership_5d_change": 0.0
     }
   },
   "161390": {
-    "2026-03-04": {
-      "foreign": 12795101250.0,
-      "institution": -14182176650.0,
-      "individual": 1360018050.0
-    },
     "2026-03-05": {
       "foreign": 4465198450.0,
       "institution": -9273790900.0,
@@ -53931,14 +54103,15 @@
       "institution": -6255804500.0,
       "individual": -5367983350.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 9541909950.0,
+      "institution": -2137893800.0,
+      "individual": -7345636850.0,
+      "ownership_5d_change": 0.0
     }
   },
   "161580": {
-    "2026-03-04": {
-      "foreign": 382836400.0,
-      "institution": -1609290325.0,
-      "individual": 1103383725.0
-    },
     "2026-03-05": {
       "foreign": 1440071600.0,
       "institution": 2829076325.0,
@@ -54234,14 +54407,15 @@
       "institution": -2050522275.0,
       "individual": 7027302975.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -1629925500.0,
+      "institution": -1755240550.0,
+      "individual": 3446086800.0,
+      "ownership_5d_change": 0.0
     }
   },
   "161890": {
-    "2026-03-04": {
-      "foreign": 3274400250.0,
-      "institution": -447846350.0,
-      "individual": -2936191100.0
-    },
     "2026-03-05": {
       "foreign": 9963000.0,
       "institution": 1430181250.0,
@@ -54537,14 +54711,15 @@
       "institution": -581363650.0,
       "individual": -512995850.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 910095500.0,
+      "institution": -1587650250.0,
+      "individual": 628937550.0,
+      "ownership_5d_change": 0.0
     }
   },
   "174900": {
-    "2026-03-04": {
-      "foreign": 2892842400.0,
-      "institution": -2912757700.0,
-      "individual": -439719900.0
-    },
     "2026-03-05": {
       "foreign": 1913662350.0,
       "institution": -13964500.0,
@@ -54840,14 +55015,15 @@
       "institution": -3758980450.0,
       "individual": 246261450.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5783686900.0,
+      "institution": -507907150.0,
+      "individual": -4502085450.0,
+      "ownership_5d_change": 0.0
     }
   },
   "178320": {
-    "2026-03-04": {
-      "foreign": -2455885950.0,
-      "institution": 4451895525.0,
-      "individual": -4365028425.0
-    },
     "2026-03-05": {
       "foreign": 27724857075.0,
       "institution": 6158204875.0,
@@ -55143,14 +55319,15 @@
       "institution": 216609800.0,
       "individual": 52297752400.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5849156350.0,
+      "institution": -7341099000.0,
+      "individual": 2068011650.0,
+      "ownership_5d_change": 0.0
     }
   },
   "183300": {
-    "2026-03-04": {
-      "foreign": 5179515850.0,
-      "institution": -4749836150.0,
-      "individual": -3410550.0
-    },
     "2026-03-05": {
       "foreign": 525552200.0,
       "institution": 4510318350.0,
@@ -55446,14 +55623,15 @@
       "institution": -4798137550.0,
       "individual": 415664650.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 668010600.0,
+      "institution": 1351456350.0,
+      "individual": -1986090950.0,
+      "ownership_5d_change": 0.0
     }
   },
   "187660": {
-    "2026-03-03": {
-      "foreign": -2401926650.0,
-      "institution": -125130.0,
-      "individual": 2188536185.0
-    },
     "2026-03-04": {
       "foreign": 8466247210.0,
       "institution": 219317545.0,
@@ -55749,14 +55927,15 @@
       "institution": -150970750.0,
       "individual": -1786539330.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 1784134165.0,
+      "institution": 58730.0,
+      "individual": -1786475775.0,
+      "ownership_5d_change": 0.0
     }
   },
   "189300": {
-    "2026-03-04": {
-      "foreign": 8941032050.0,
-      "institution": -1191494100.0,
-      "individual": -7655024450.0
-    },
     "2026-03-05": {
       "foreign": 4635377400.0,
       "institution": 6466209500.0,
@@ -56052,14 +56231,15 @@
       "institution": -309425100.0,
       "individual": 1011716850.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 12820118750.0,
+      "institution": -11253785900.0,
+      "individual": -1152162700.0,
+      "ownership_5d_change": 0.0
     }
   },
   "196170": {
-    "2026-03-04": {
-      "foreign": 29032343500.0,
-      "institution": 18097363250.0,
-      "individual": -46658131000.0
-    },
     "2026-03-05": {
       "foreign": 20740404500.0,
       "institution": 27639488000.0,
@@ -56355,14 +56535,15 @@
       "institution": 23426865250.0,
       "individual": -4278499250.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -3416123250.0,
+      "institution": 12189607250.0,
+      "individual": -7090934500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "203650": {
-    "2026-03-04": {
-      "foreign": 10375646.0,
-      "institution": 0.0,
-      "individual": -186421442.0
-    },
     "2026-03-05": {
       "foreign": 25202094.0,
       "institution": 0.0,
@@ -56658,14 +56839,15 @@
       "institution": -8138085.0,
       "individual": 2311945030.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 807680802.0,
+      "institution": -25410.0,
+      "individual": -854491147.0,
+      "ownership_5d_change": 0.0
     }
   },
   "204320": {
-    "2026-03-04": {
-      "foreign": 7966886550.0,
-      "institution": -2261645300.0,
-      "individual": -5838199800.0
-    },
     "2026-03-05": {
       "foreign": 9187551200.0,
       "institution": -4738305950.0,
@@ -56961,14 +57143,15 @@
       "institution": 1200534450.0,
       "individual": -5448041650.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 119403100.0,
+      "institution": 3266873650.0,
+      "individual": -3475160950.0,
+      "ownership_5d_change": 0.0
     }
   },
   "214450": {
-    "2026-03-04": {
-      "foreign": 14099423500.0,
-      "institution": -3373190000.0,
-      "individual": -10729836500.0
-    },
     "2026-03-05": {
       "foreign": 14261777750.0,
       "institution": -5581158000.0,
@@ -57264,14 +57447,15 @@
       "institution": 1763725500.0,
       "individual": -2513469250.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 1744424250.0,
+      "institution": 2893084250.0,
+      "individual": -3858548500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "218410": {
-    "2026-03-04": {
-      "foreign": 7093530650.0,
-      "institution": 12352100.0,
-      "individual": -7656595550.0
-    },
     "2026-03-05": {
       "foreign": 3546052650.0,
       "institution": 9238776650.0,
@@ -57567,14 +57751,15 @@
       "institution": -11146884600.0,
       "individual": 1174794100.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 13738398600.0,
+      "institution": -5722421450.0,
+      "individual": -7971441350.0,
+      "ownership_5d_change": 0.0
     }
   },
   "222080": {
-    "2026-03-04": {
-      "foreign": 5958870480.0,
-      "institution": -188606535.0,
-      "individual": -5844147185.0
-    },
     "2026-03-05": {
       "foreign": 2872802455.0,
       "institution": 1738677435.0,
@@ -57870,14 +58055,15 @@
       "institution": 1393318955.0,
       "individual": -4330867030.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3000315335.0,
+      "institution": 792172825.0,
+      "individual": -3761886100.0,
+      "ownership_5d_change": 0.0
     }
   },
   "222800": {
-    "2026-03-04": {
-      "foreign": -899843100.0,
-      "institution": -899154275.0,
-      "individual": 1679970025.0
-    },
     "2026-03-05": {
       "foreign": 2929270325.0,
       "institution": 3499220775.0,
@@ -58173,14 +58359,15 @@
       "institution": -13125037150.0,
       "individual": 2754417750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 10093138100.0,
+      "institution": -19245292750.0,
+      "individual": 9619989650.0,
+      "ownership_5d_change": 0.0
     }
   },
   "226950": {
-    "2026-03-04": {
-      "foreign": 6611496500.0,
-      "institution": -4913734350.0,
-      "individual": -2459342950.0
-    },
     "2026-03-05": {
       "foreign": -16251765400.0,
       "institution": 22415467500.0,
@@ -58476,14 +58663,15 @@
       "institution": -10108824850.0,
       "individual": 25101425100.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 27095004774.0,
+      "institution": -995371400.0,
+      "individual": -25535858474.0,
+      "ownership_5d_change": 0.0
     }
   },
   "229640": {
-    "2026-03-04": {
-      "foreign": 1244402250.0,
-      "institution": 104435425.0,
-      "individual": -1359569025.0
-    },
     "2026-03-05": {
       "foreign": 932553525.0,
       "institution": 483541525.0,
@@ -58779,14 +58967,15 @@
       "institution": -4753546650.0,
       "individual": -2221598250.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2423862800.0,
+      "institution": 155338750.0,
+      "individual": -2513859250.0,
+      "ownership_5d_change": 0.0
     }
   },
   "230240": {
-    "2026-03-04": {
-      "foreign": -165294270.0,
-      "institution": -30523985.0,
-      "individual": 233581265.0
-    },
     "2026-03-05": {
       "foreign": 748470275.0,
       "institution": -132654030.0,
@@ -59082,14 +59271,15 @@
       "institution": 342188800.0,
       "individual": -1851764950.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 1795764325.0,
+      "institution": -1308888650.0,
+      "individual": -564266475.0,
+      "ownership_5d_change": 0.0
     }
   },
   "232140": {
-    "2026-03-04": {
-      "foreign": 1124231775.0,
-      "institution": 2177400270.0,
-      "individual": -3289339265.0
-    },
     "2026-03-05": {
       "foreign": 4142615305.0,
       "institution": 1483943200.0,
@@ -59385,14 +59575,15 @@
       "institution": -1875219140.0,
       "individual": 875700625.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -3666879245.0,
+      "institution": -2219325625.0,
+      "individual": 5985568650.0,
+      "ownership_5d_change": 0.0
     }
   },
   "234340": {
-    "2026-03-04": {
-      "foreign": -3212135825.0,
-      "institution": 2038946950.0,
-      "individual": 1256194975.0
-    },
     "2026-03-05": {
       "foreign": 9999041350.0,
       "institution": 2965664500.0,
@@ -59688,14 +59879,15 @@
       "institution": -122257300.0,
       "individual": 1108032175.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -632068950.0,
+      "institution": -143779950.0,
+      "individual": 584369100.0,
+      "ownership_5d_change": 0.0
     }
   },
   "237690": {
-    "2026-03-04": {
-      "foreign": -424951250.0,
-      "institution": -3535187300.0,
-      "individual": 3170159950.0
-    },
     "2026-03-05": {
       "foreign": 97452700.0,
       "institution": 4623674700.0,
@@ -59991,14 +60183,15 @@
       "institution": 692846650.0,
       "individual": -1190679600.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5407354700.0,
+      "institution": -5023070450.0,
+      "individual": -283518300.0,
+      "ownership_5d_change": 0.0
     }
   },
   "240810": {
-    "2026-03-04": {
-      "foreign": -23190971950.0,
-      "institution": 10810299450.0,
-      "individual": 12178227850.0
-    },
     "2026-03-05": {
       "foreign": -9120329300.0,
       "institution": 38563825950.0,
@@ -60294,14 +60487,15 @@
       "institution": -26364753800.0,
       "individual": 3983503550.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 16928741250.0,
+      "institution": -16785638350.0,
+      "individual": 242449200.0,
+      "ownership_5d_change": 0.0
     }
   },
   "241520": {
-    "2026-03-04": {
-      "foreign": 4746248590.0,
-      "institution": 192399590.0,
-      "individual": -4953982150.0
-    },
     "2026-03-05": {
       "foreign": 1940180070.0,
       "institution": -446616570.0,
@@ -60597,14 +60791,15 @@
       "institution": -42981070.0,
       "individual": 5584120075.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -179210990.0,
+      "institution": 5981010.0,
+      "individual": 20642280.0,
+      "ownership_5d_change": 0.0
     }
   },
   "241560": {
-    "2026-03-04": {
-      "foreign": 5691315100.0,
-      "institution": -5515272850.0,
-      "individual": -115207650.0
-    },
     "2026-03-05": {
       "foreign": -973718050.0,
       "institution": -2054186000.0,
@@ -60900,14 +61095,15 @@
       "institution": -5961024200.0,
       "individual": 2828330100.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2333049800.0,
+      "institution": -7748071000.0,
+      "individual": 5391335600.0,
+      "ownership_5d_change": 0.0
     }
   },
   "247540": {
-    "2026-03-04": {
-      "foreign": 46093263600.0,
-      "institution": -1081802650.0,
-      "individual": -43656763050.0
-    },
     "2026-03-05": {
       "foreign": 5553999100.0,
       "institution": 32657924550.0,
@@ -61203,14 +61399,15 @@
       "institution": 9605607250.0,
       "individual": -14321903250.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -12256993750.0,
+      "institution": 11686577250.0,
+      "individual": 8750606750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "253590": {
-    "2026-03-04": {
-      "foreign": 4375107165.0,
-      "institution": -297013725.0,
-      "individual": -3996487950.0
-    },
     "2026-03-05": {
       "foreign": 6585084315.0,
       "institution": 424042860.0,
@@ -61506,14 +61703,15 @@
       "institution": -295249050.0,
       "individual": 2987899490.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 505601040.0,
+      "institution": 436169825.0,
+      "individual": -876980415.0,
+      "ownership_5d_change": 0.0
     }
   },
   "257720": {
-    "2026-03-04": {
-      "foreign": 1561886275.0,
-      "institution": 2355722125.0,
-      "individual": -3896207950.0
-    },
     "2026-03-05": {
       "foreign": 233245375.0,
       "institution": -1164144825.0,
@@ -61809,14 +62007,15 @@
       "institution": -7189543750.0,
       "individual": 3822156575.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 4138980550.0,
+      "institution": -3489292975.0,
+      "individual": -496514025.0,
+      "ownership_5d_change": 0.0
     }
   },
   "259960": {
-    "2026-03-04": {
-      "foreign": 2076543000.0,
-      "institution": -6739652750.0,
-      "individual": -1831315750.0
-    },
     "2026-03-05": {
       "foreign": -223892500.0,
       "institution": -10132561750.0,
@@ -62112,14 +62311,15 @@
       "institution": -9621715750.0,
       "individual": -3111681000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2365576750.0,
+      "institution": -4018190750.0,
+      "individual": -1614209000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "263750": {
-    "2026-03-04": {
-      "foreign": -10513735350.0,
-      "institution": 3961120850.0,
-      "individual": 6450273100.0
-    },
     "2026-03-05": {
       "foreign": -17650816100.0,
       "institution": 6970607600.0,
@@ -62415,14 +62615,15 @@
       "institution": 1772936425.0,
       "individual": -5906469725.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5183607975.0,
+      "institution": 1714754775.0,
+      "individual": -6918569100.0,
+      "ownership_5d_change": 0.0
     }
   },
   "267250": {
-    "2026-03-04": {
-      "foreign": 15212475000.0,
-      "institution": 6721110000.0,
-      "individual": -21155650750.0
-    },
     "2026-03-05": {
       "foreign": 3634766000.0,
       "institution": -8259252000.0,
@@ -62718,14 +62919,15 @@
       "institution": 262019250.0,
       "individual": -2662814500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 8935004250.0,
+      "institution": 3775867250.0,
+      "individual": -12807536750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "267260": {
-    "2026-03-04": {
-      "foreign": 20418968000.0,
-      "institution": -13790780000.0,
-      "individual": -5274265000.0
-    },
     "2026-03-05": {
       "foreign": 52792931500.0,
       "institution": -28187717500.0,
@@ -63021,14 +63223,15 @@
       "institution": -13265458000.0,
       "individual": 13106837000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -43140890500.0,
+      "institution": 1792499000.0,
+      "individual": 39432672000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "267270": {
-    "2026-03-04": {
-      "foreign": 17034136550.0,
-      "institution": -5921776550.0,
-      "individual": -9709812400.0
-    },
     "2026-03-05": {
       "foreign": 1067449250.0,
       "institution": 5455416750.0,
@@ -63324,14 +63527,15 @@
       "institution": -20858891150.0,
       "individual": 18421778800.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 29704906550.0,
+      "institution": -34187501150.0,
+      "individual": 4689414100.0,
+      "ownership_5d_change": 0.0
     }
   },
   "272210": {
-    "2026-03-04": {
-      "foreign": -97223756750.0,
-      "institution": -37663161250.0,
-      "individual": 134590481350.0
-    },
     "2026-03-05": {
       "foreign": 73098988300.0,
       "institution": 44436908750.0,
@@ -63627,14 +63831,15 @@
       "institution": -2022641750.0,
       "individual": -6707259750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 16027880750.0,
+      "institution": -12033504600.0,
+      "individual": -3922970250.0,
+      "ownership_5d_change": 0.0
     }
   },
   "274090": {
-    "2026-03-04": {
-      "foreign": 4168436580.0,
-      "institution": -140220290.0,
-      "individual": -4057538620.0
-    },
     "2026-03-05": {
       "foreign": 2587344620.0,
       "institution": -1127221720.0,
@@ -63930,14 +64135,15 @@
       "institution": 23952350.0,
       "individual": -294098100.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3165319450.0,
+      "institution": -584400275.0,
+      "individual": -2651159225.0,
+      "ownership_5d_change": 0.0
     }
   },
   "277810": {
-    "2026-03-04": {
-      "foreign": 13712573000.0,
-      "institution": 18126859500.0,
-      "individual": -31450978000.0
-    },
     "2026-03-05": {
       "foreign": 16703534500.0,
       "institution": 48051213500.0,
@@ -64233,14 +64439,15 @@
       "institution": 5496827500.0,
       "individual": 15648037500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 27521269500.0,
+      "institution": 30935319000.0,
+      "individual": -57708478500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "278470": {
-    "2026-03-04": {
-      "foreign": 7428568750.0,
-      "institution": 5346827250.0,
-      "individual": -13282461000.0
-    },
     "2026-03-05": {
       "foreign": 12740623000.0,
       "institution": -4893951250.0,
@@ -64536,14 +64743,15 @@
       "institution": -3254357250.0,
       "individual": -499937750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 28673463250.0,
+      "institution": 9270717000.0,
+      "individual": -37703015750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "281740": {
-    "2026-03-04": {
-      "foreign": 7906028085.0,
-      "institution": -515310775.0,
-      "individual": -7137209030.0
-    },
     "2026-03-05": {
       "foreign": 3136194345.0,
       "institution": 1667173940.0,
@@ -64839,14 +65047,15 @@
       "institution": 548253410.0,
       "individual": -201288845.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -1951159970.0,
+      "institution": 1157130575.0,
+      "individual": 675350605.0,
+      "ownership_5d_change": 0.0
     }
   },
   "295310": {
-    "2026-03-04": {
-      "foreign": 4386075800.0,
-      "institution": -226324700.0,
-      "individual": -4046122400.0
-    },
     "2026-03-05": {
       "foreign": 1428106700.0,
       "institution": -24878700.0,
@@ -65142,14 +65351,15 @@
       "institution": -477181150.0,
       "individual": -581062600.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 4289251100.0,
+      "institution": -10103445200.0,
+      "individual": 6399526900.0,
+      "ownership_5d_change": 0.0
     }
   },
   "298040": {
-    "2026-03-04": {
-      "foreign": 17574185500.0,
-      "institution": -19118096000.0,
-      "individual": 1322149000.0
-    },
     "2026-03-05": {
       "foreign": 8420022000.0,
       "institution": 1196847000.0,
@@ -65445,14 +65655,15 @@
       "institution": -18636400000.0,
       "individual": 15149126500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 19021113000.0,
+      "institution": 17000909500.0,
+      "individual": -36221557500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "298380": {
-    "2026-03-04": {
-      "foreign": 32427247050.0,
-      "institution": -8550438550.0,
-      "individual": -24807444300.0
-    },
     "2026-03-05": {
       "foreign": 2302285900.0,
       "institution": 25715808800.0,
@@ -65748,14 +65959,15 @@
       "institution": 4760784200.0,
       "individual": -8996257250.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3773061750.0,
+      "institution": 5476691700.0,
+      "individual": -9012317550.0,
+      "ownership_5d_change": 0.0
     }
   },
   "307950": {
-    "2026-03-04": {
-      "foreign": 6545377500.0,
-      "institution": -14282414500.0,
-      "individual": 7756986750.0
-    },
     "2026-03-05": {
       "foreign": -9825995750.0,
       "institution": -7299509500.0,
@@ -66051,14 +66263,15 @@
       "institution": 20743602500.0,
       "individual": -12913279000.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -19285301500.0,
+      "institution": 4172625000.0,
+      "individual": 13876979000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "310210": {
-    "2026-03-04": {
-      "foreign": 17980647750.0,
-      "institution": -20813056750.0,
-      "individual": 3049793000.0
-    },
     "2026-03-05": {
       "foreign": -9330398250.0,
       "institution": 9585236000.0,
@@ -66354,14 +66567,15 @@
       "institution": 1839287500.0,
       "individual": 1714618250.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -7777271000.0,
+      "institution": 8898715500.0,
+      "individual": -698054750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "316140": {
-    "2026-03-04": {
-      "foreign": 30365001275.0,
-      "institution": -6631359675.0,
-      "individual": -23602251400.0
-    },
     "2026-03-05": {
       "foreign": -17975951725.0,
       "institution": 3640800425.0,
@@ -66657,14 +66871,15 @@
       "institution": 2258771325.0,
       "individual": 2299392825.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 10178511575.0,
+      "institution": -6851551875.0,
+      "individual": -3415393175.0,
+      "ownership_5d_change": 0.0
     }
   },
   "319400": {
-    "2026-03-04": {
-      "foreign": 6124614225.0,
-      "institution": -11267625.0,
-      "individual": -6215688100.0
-    },
     "2026-03-05": {
       "foreign": 3973818025.0,
       "institution": -9936650.0,
@@ -66960,14 +67175,15 @@
       "institution": 1311817675.0,
       "individual": -10588444125.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -5097607175.0,
+      "institution": -2634442600.0,
+      "individual": 7891314550.0,
+      "ownership_5d_change": 0.0
     }
   },
   "319660": {
-    "2026-03-04": {
-      "foreign": -5681526950.0,
-      "institution": 4439052350.0,
-      "individual": 1237699250.0
-    },
     "2026-03-05": {
       "foreign": 443936050.0,
       "institution": 9841179400.0,
@@ -67263,14 +67479,15 @@
       "institution": -14783932450.0,
       "individual": 7085968950.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 14831948750.0,
+      "institution": -14333400550.0,
+      "individual": -750205850.0,
+      "ownership_5d_change": 0.0
     }
   },
   "322000": {
-    "2026-03-04": {
-      "foreign": 8064177300.0,
-      "institution": -3580258250.0,
-      "individual": -5313838950.0
-    },
     "2026-03-05": {
       "foreign": 1969181500.0,
       "institution": 2091014800.0,
@@ -67566,14 +67783,15 @@
       "institution": -8694942950.0,
       "individual": -3101401800.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 10608601900.0,
+      "institution": -9610928650.0,
+      "individual": -865500750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "323280": {
-    "2026-03-04": {
-      "foreign": 3478888650.0,
-      "institution": 477147150.0,
-      "individual": -4245583300.0
-    },
     "2026-03-05": {
       "foreign": 480287150.0,
       "institution": 6006818300.0,
@@ -67869,14 +68087,15 @@
       "institution": -2845197350.0,
       "individual": -110337900.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2485319750.0,
+      "institution": -846047750.0,
+      "individual": -1856125000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "323410": {
-    "2026-03-04": {
-      "foreign": 5226784600.0,
-      "institution": -4367129000.0,
-      "individual": -1139253550.0
-    },
     "2026-03-05": {
       "foreign": 10083665950.0,
       "institution": -5731778675.0,
@@ -68172,14 +68391,15 @@
       "institution": -2340980000.0,
       "individual": -5735109175.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 1742408150.0,
+      "institution": -210005075.0,
+      "individual": -1570543275.0,
+      "ownership_5d_change": 0.0
     }
   },
   "326030": {
-    "2026-03-04": {
-      "foreign": 6233326650.0,
-      "institution": -3043640150.0,
-      "individual": -3422276100.0
-    },
     "2026-03-05": {
       "foreign": 8499213100.0,
       "institution": -3707527200.0,
@@ -68475,14 +68695,15 @@
       "institution": -3293117550.0,
       "individual": 6697751400.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -2728485300.0,
+      "institution": 79643800.0,
+      "individual": 2228226200.0,
+      "ownership_5d_change": 0.0
     }
   },
   "327260": {
-    "2026-03-04": {
-      "foreign": -1519490775.0,
-      "institution": 298326750.0,
-      "individual": 1208226825.0
-    },
     "2026-03-05": {
       "foreign": -1647004275.0,
       "institution": 358968425.0,
@@ -68778,14 +68999,15 @@
       "institution": -3242218950.0,
       "individual": -1580838100.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 16318792750.0,
+      "institution": -8668170450.0,
+      "individual": -7256247600.0,
+      "ownership_5d_change": 0.0
     }
   },
   "329180": {
-    "2026-03-04": {
-      "foreign": 54752742000.0,
-      "institution": -34992626000.0,
-      "individual": -16853268000.0
-    },
     "2026-03-05": {
       "foreign": 11901593500.0,
       "institution": -13133540000.0,
@@ -69081,14 +69303,15 @@
       "institution": 13979452500.0,
       "individual": 25019781500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -9975249500.0,
+      "institution": 17503189500.0,
+      "individual": -2987681000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "332570": {
-    "2026-03-04": {
-      "foreign": 1361860823.0,
-      "institution": -203713335.0,
-      "individual": -1908486663.0
-    },
     "2026-03-05": {
       "foreign": 1407163530.0,
       "institution": -708704295.0,
@@ -69384,14 +69607,15 @@
       "institution": -49716720.0,
       "individual": 12094103875.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 6122380680.0,
+      "institution": -3845035.0,
+      "individual": -6433067695.0,
+      "ownership_5d_change": 0.0
     }
   },
   "336260": {
-    "2026-03-04": {
-      "foreign": -1293706875.0,
-      "institution": 191095750.0,
-      "individual": 1186942275.0
-    },
     "2026-03-05": {
       "foreign": 4510976700.0,
       "institution": 5526359475.0,
@@ -69687,14 +69911,15 @@
       "institution": 2081267700.0,
       "individual": 1111321400.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 6041952350.0,
+      "institution": -12135840800.0,
+      "individual": 5654044750.0,
+      "ownership_5d_change": 0.0
     }
   },
   "347700": {
-    "2026-03-04": {
-      "foreign": 3056851750.0,
-      "institution": -4297303700.0,
-      "individual": 1435400375.0
-    },
     "2026-03-05": {
       "foreign": 25035388425.0,
       "institution": 2828752475.0,
@@ -69990,14 +70215,15 @@
       "institution": -3775166375.0,
       "individual": 17657725875.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -646404325.0,
+      "institution": -5496512375.0,
+      "individual": 6503547950.0,
+      "ownership_5d_change": 0.0
     }
   },
   "347850": {
-    "2026-03-04": {
-      "foreign": 9961155150.0,
-      "institution": 3963476550.0,
-      "individual": -14369107800.0
-    },
     "2026-03-05": {
       "foreign": 2713513550.0,
       "institution": 12600543300.0,
@@ -70293,14 +70519,15 @@
       "institution": 15092522800.0,
       "individual": 116137800.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 95385450.0,
+      "institution": -6628327050.0,
+      "individual": 3452014550.0,
+      "ownership_5d_change": 0.0
     }
   },
   "348340": {
-    "2026-03-04": {
-      "foreign": 12367076200.0,
-      "institution": -191836600.0,
-      "individual": -12370408600.0
-    },
     "2026-03-05": {
       "foreign": 1697641650.0,
       "institution": 219453650.0,
@@ -70596,14 +70823,15 @@
       "institution": -1315363750.0,
       "individual": -64157550.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2417447800.0,
+      "institution": -1196049000.0,
+      "individual": -1102554450.0,
+      "ownership_5d_change": 0.0
     }
   },
   "348370": {
-    "2026-03-04": {
-      "foreign": 2488926500.0,
-      "institution": -2070754800.0,
-      "individual": -559242300.0
-    },
     "2026-03-05": {
       "foreign": -727146650.0,
       "institution": 5679855100.0,
@@ -70899,14 +71127,15 @@
       "institution": 1052638400.0,
       "individual": -493839425.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -354750475.0,
+      "institution": 668668125.0,
+      "individual": -253383300.0,
+      "ownership_5d_change": 0.0
     }
   },
   "352820": {
-    "2026-03-04": {
-      "foreign": 40980782250.0,
-      "institution": -9094609250.0,
-      "individual": -32176240000.0
-    },
     "2026-03-05": {
       "foreign": 10917333750.0,
       "institution": -24932526250.0,
@@ -71202,14 +71431,15 @@
       "institution": -7345618250.0,
       "individual": -7701096750.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 15580711500.0,
+      "institution": -16478419250.0,
+      "individual": 678730000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "353200": {
-    "2026-03-04": {
-      "foreign": 8976555800.0,
-      "institution": 855689400.0,
-      "individual": -10116659400.0
-    },
     "2026-03-05": {
       "foreign": 2490660800.0,
       "institution": 4814435000.0,
@@ -71505,14 +71735,15 @@
       "institution": 16531714100.0,
       "individual": -29582294300.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -61432934800.0,
+      "institution": -8014573900.0,
+      "individual": 69539995300.0,
+      "ownership_5d_change": 0.0
     }
   },
   "356680": {
-    "2026-03-04": {
-      "foreign": 295264285.0,
-      "institution": 0.0,
-      "individual": -286580055.0
-    },
     "2026-03-05": {
       "foreign": 733888125.0,
       "institution": 0.0,
@@ -71808,14 +72039,15 @@
       "institution": 277669700.0,
       "individual": 3788957775.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2278463025.0,
+      "institution": -891321700.0,
+      "individual": -1407616475.0,
+      "ownership_5d_change": 0.0
     }
   },
   "356860": {
-    "2026-03-04": {
-      "foreign": -132675800.0,
-      "institution": -1670979700.0,
-      "individual": 1953586100.0
-    },
     "2026-03-05": {
       "foreign": -1770979100.0,
       "institution": 2056997150.0,
@@ -72111,14 +72343,15 @@
       "institution": 178707800.0,
       "individual": -1198195050.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 4699044550.0,
+      "institution": -3805695050.0,
+      "individual": -835697250.0,
+      "ownership_5d_change": 0.0
     }
   },
   "357780": {
-    "2026-03-04": {
-      "foreign": -3010477000.0,
-      "institution": 5332507000.0,
-      "individual": -2325522500.0
-    },
     "2026-03-05": {
       "foreign": -6426510000.0,
       "institution": 11492039750.0,
@@ -72414,14 +72647,15 @@
       "institution": -12611522250.0,
       "individual": 6748687500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5890827250.0,
+      "institution": -6657907250.0,
+      "individual": 861344500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "368770": {
-    "2026-03-04": {
-      "foreign": -375355540.0,
-      "institution": -772163445.0,
-      "individual": 1010278565.0
-    },
     "2026-03-05": {
       "foreign": 473251770.0,
       "institution": -15429265.0,
@@ -72717,14 +72951,15 @@
       "institution": -130223760.0,
       "individual": -1108145050.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 1335043400.0,
+      "institution": -264197730.0,
+      "individual": -1230601770.0,
+      "ownership_5d_change": 0.0
     }
   },
   "373220": {
-    "2026-03-04": {
-      "foreign": 64287489750.0,
-      "institution": -47545161250.0,
-      "individual": 336921000.0
-    },
     "2026-03-05": {
       "foreign": 2306192250.0,
       "institution": -9390021500.0,
@@ -73020,14 +73255,15 @@
       "institution": 95555993750.0,
       "individual": -79273375500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 61408904250.0,
+      "institution": -11012842250.0,
+      "individual": -25588111500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "375500": {
-    "2026-03-04": {
-      "foreign": 1673461125.0,
-      "institution": -1449063025.0,
-      "individual": -441158200.0
-    },
     "2026-03-05": {
       "foreign": -404687425.0,
       "institution": -1154573575.0,
@@ -73323,14 +73559,15 @@
       "institution": -9236706250.0,
       "individual": 14954948400.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 20059159350.0,
+      "institution": -9254407350.0,
+      "individual": -10795520800.0,
+      "ownership_5d_change": 0.0
     }
   },
   "376900": {
-    "2026-03-04": {
-      "foreign": 1108707450.0,
-      "institution": -197140550.0,
-      "individual": -1654694700.0
-    },
     "2026-03-05": {
       "foreign": 5171995900.0,
       "institution": -632661800.0,
@@ -73626,14 +73863,15 @@
       "institution": -157376575.0,
       "individual": 1193374150.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -532731600.0,
+      "institution": -194473200.0,
+      "individual": 1133505650.0,
+      "ownership_5d_change": 0.0
     }
   },
   "377300": {
-    "2026-03-04": {
-      "foreign": 8488263900.0,
-      "institution": -3524419150.0,
-      "individual": -4779354850.0
-    },
     "2026-03-05": {
       "foreign": 4791885200.0,
       "institution": 1380213000.0,
@@ -73929,14 +74167,15 @@
       "institution": 1283620525.0,
       "individual": -1520377275.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -936784200.0,
+      "institution": -160973575.0,
+      "individual": 1086521125.0,
+      "ownership_5d_change": 0.0
     }
   },
   "393890": {
-    "2026-03-04": {
-      "foreign": -144146155.0,
-      "institution": 22241450.0,
-      "individual": 188501735.0
-    },
     "2026-03-05": {
       "foreign": 1381106130.0,
       "institution": 743660500.0,
@@ -74232,14 +74471,15 @@
       "institution": 1221134210.0,
       "individual": 2791437185.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 113511930.0,
+      "institution": -453290140.0,
+      "individual": 367787330.0,
+      "ownership_5d_change": 0.0
     }
   },
   "402340": {
-    "2026-03-04": {
-      "foreign": -14142123500.0,
-      "institution": -6539860250.0,
-      "individual": 17358112250.0
-    },
     "2026-03-05": {
       "foreign": 35637123500.0,
       "institution": -8299105000.0,
@@ -74535,14 +74775,15 @@
       "institution": 190224377500.0,
       "individual": -115870950500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 338602286500.0,
+      "institution": -179691313500.0,
+      "individual": -154247193500.0,
+      "ownership_5d_change": 0.0
     }
   },
   "403870": {
-    "2026-03-04": {
-      "foreign": -10743117300.0,
-      "institution": 5492771550.0,
-      "individual": 5109226050.0
-    },
     "2026-03-05": {
       "foreign": 33536139925.0,
       "institution": 21299607025.0,
@@ -74838,14 +75079,15 @@
       "institution": -21618571375.0,
       "individual": 10194228850.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 8320556825.0,
+      "institution": -13668128450.0,
+      "individual": 5104717825.0,
+      "ownership_5d_change": 0.0
     }
   },
   "417200": {
-    "2026-03-04": {
-      "foreign": 3781853450.0,
-      "institution": -601834515.0,
-      "individual": -3119692825.0
-    },
     "2026-03-05": {
       "foreign": 627903230.0,
       "institution": 623915155.0,
@@ -75141,14 +75383,15 @@
       "institution": -3494537750.0,
       "individual": -4301117475.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3064334475.0,
+      "institution": -195014650.0,
+      "individual": -2848331900.0,
+      "ownership_5d_change": 0.0
     }
   },
   "417840": {
-    "2026-03-04": {
-      "foreign": 1633403410.0,
-      "institution": 136731810.0,
-      "individual": -1750460730.0
-    },
     "2026-03-05": {
       "foreign": 710996260.0,
       "institution": -270698650.0,
@@ -75444,14 +75687,15 @@
       "institution": 1740499545.0,
       "individual": 466467660.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 3278771100.0,
+      "institution": -954946660.0,
+      "individual": -2348143230.0,
+      "ownership_5d_change": 0.0
     }
   },
   "425040": {
-    "2026-03-04": {
-      "foreign": -29897850.0,
-      "institution": 0.0,
-      "individual": 19404230.0
-    },
     "2026-03-05": {
       "foreign": 814878290.0,
       "institution": -9086940.0,
@@ -75747,14 +75991,15 @@
       "institution": -242776435.0,
       "individual": 1200301335.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -3004515090.0,
+      "institution": 19829895.0,
+      "individual": 2941440115.0,
+      "ownership_5d_change": 0.0
     }
   },
   "443060": {
-    "2026-03-04": {
-      "foreign": -1475369700.0,
-      "institution": -6177007050.0,
-      "individual": 3077760650.0
-    },
     "2026-03-05": {
       "foreign": 10933810650.0,
       "institution": -6334563550.0,
@@ -76050,14 +76295,15 @@
       "institution": -3850562500.0,
       "individual": 9178712500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -12028567250.0,
+      "institution": 18496659500.0,
+      "individual": 1545392250.0,
+      "ownership_5d_change": 0.0
     }
   },
   "448900": {
-    "2026-03-04": {
-      "foreign": 7357917400.0,
-      "institution": -4548410550.0,
-      "individual": -2800708450.0
-    },
     "2026-03-05": {
       "foreign": -226209050.0,
       "institution": 558852500.0,
@@ -76353,14 +76599,15 @@
       "institution": 8686486950.0,
       "individual": -9141862500.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": -3824549600.0,
+      "institution": 3787495000.0,
+      "individual": 882100800.0,
+      "ownership_5d_change": 0.0
     }
   },
   "450080": {
-    "2026-03-04": {
-      "foreign": -10849211450.0,
-      "institution": -4248413850.0,
-      "individual": 14488799300.0
-    },
     "2026-03-05": {
       "foreign": 2823319050.0,
       "institution": 1559026600.0,
@@ -76656,14 +76903,15 @@
       "institution": 834787200.0,
       "individual": 137555850.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 4430803750.0,
+      "institution": -7769968750.0,
+      "individual": 3497433400.0,
+      "ownership_5d_change": 0.0
     }
   },
   "452260": {
-    "2026-03-04": {
-      "foreign": 4552497164.0,
-      "institution": -105893579.0,
-      "individual": -4405417395.0
-    },
     "2026-03-05": {
       "foreign": -1723019058.0,
       "institution": -180810.0,
@@ -76959,14 +77207,15 @@
       "institution": 185025201.0,
       "individual": -699010786.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 170402596.0,
+      "institution": -94711934.0,
+      "individual": 1016389928.0,
+      "ownership_5d_change": 0.0
     }
   },
   "454910": {
-    "2026-03-04": {
-      "foreign": 4252979450.0,
-      "institution": 2477648250.0,
-      "individual": -6985767800.0
-    },
     "2026-03-05": {
       "foreign": 1504822800.0,
       "institution": 276733000.0,
@@ -77262,14 +77511,15 @@
       "institution": 6235495100.0,
       "individual": -11211311400.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 100000924150.0,
+      "institution": 4159063600.0,
+      "individual": -103746828000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "456010": {
-    "2026-03-04": {
-      "foreign": 175290705.0,
-      "institution": 48784045.0,
-      "individual": -447120560.0
-    },
     "2026-03-05": {
       "foreign": 1308763265.0,
       "institution": 14620.0,
@@ -77565,14 +77815,15 @@
       "institution": 328342050.0,
       "individual": 5095936425.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 5732262650.0,
+      "institution": -161770800.0,
+      "individual": -5592528100.0,
+      "ownership_5d_change": 0.0
     }
   },
   "457190": {
-    "2026-03-04": {
-      "foreign": 4236485550.0,
-      "institution": -3270740950.0,
-      "individual": -1110278700.0
-    },
     "2026-03-05": {
       "foreign": -7731759550.0,
       "institution": -3343308300.0,
@@ -77868,14 +78119,15 @@
       "institution": 637991500.0,
       "individual": -193778200.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 2860445850.0,
+      "institution": -468381100.0,
+      "individual": -1938321450.0,
+      "ownership_5d_change": 0.0
     }
   },
   "466100": {
-    "2026-03-04": {
-      "foreign": 11641840450.0,
-      "institution": 407238650.0,
-      "individual": -12047208600.0
-    },
     "2026-03-05": {
       "foreign": 1224527900.0,
       "institution": 2677477150.0,
@@ -78171,14 +78423,15 @@
       "institution": 454519300.0,
       "individual": -1461984725.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 1262689850.0,
+      "institution": 1303647525.0,
+      "individual": -2562512875.0,
+      "ownership_5d_change": 0.0
     }
   },
   "475150": {
-    "2026-03-04": {
-      "foreign": 5722174575.0,
-      "institution": -801244250.0,
-      "individual": -4836407225.0
-    },
     "2026-03-05": {
       "foreign": 804083000.0,
       "institution": 1047529775.0,
@@ -78474,14 +78727,15 @@
       "institution": -3152522100.0,
       "individual": 15064848225.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 4944855575.0,
+      "institution": 1894956275.0,
+      "individual": -6937397700.0,
+      "ownership_5d_change": 0.0
     }
   },
   "475830": {
-    "2026-03-04": {
-      "foreign": -817742900.0,
-      "institution": -756603800.0,
-      "individual": 1702678200.0
-    },
     "2026-03-05": {
       "foreign": 1438202900.0,
       "institution": -3527905900.0,
@@ -78777,14 +79031,15 @@
       "institution": -1219652150.0,
       "individual": -1742137600.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 4969111700.0,
+      "institution": -105402950.0,
+      "individual": -6926763550.0,
+      "ownership_5d_change": 0.0
     }
   },
   "489790": {
-    "2026-03-04": {
-      "foreign": 13021727800.0,
-      "institution": -1275596850.0,
-      "individual": -11710159950.0
-    },
     "2026-03-05": {
       "foreign": -1396633650.0,
       "institution": 17121960000.0,
@@ -79080,14 +79335,15 @@
       "institution": -80741300.0,
       "individual": -255903850.0,
       "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 15245796650.0,
+      "institution": -4172627300.0,
+      "individual": -11903023000.0,
+      "ownership_5d_change": 0.0
     }
   },
   "950160": {
-    "2026-03-04": {
-      "foreign": 1574280050.0,
-      "institution": 3394702050.0,
-      "individual": -6025788050.0
-    },
     "2026-03-05": {
       "foreign": 12207363550.0,
       "institution": -1167228800.0,
@@ -79382,6 +79638,12 @@
       "foreign": -14174981400.0,
       "institution": -6611827150.0,
       "individual": 20571125750.0,
+      "ownership_5d_change": 0.0
+    },
+    "2026-06-01": {
+      "foreign": 7936772600.0,
+      "institution": -2490492950.0,
+      "individual": -5257344550.0,
       "ownership_5d_change": 0.0
     }
   }
