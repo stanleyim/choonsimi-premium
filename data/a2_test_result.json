@@ -1,0 +1,100 @@
+﻿{
+  "run_at": "2026-06-09T05:38:52.425963",
+  "config": {
+    "control_weights": {
+      "M": 0.25,
+      "F": 0.25,
+      "Q": 0.25,
+      "R": 0.0,
+      "L": 0.25
+    },
+    "control_r_value": 0.0,
+    "test_period": [
+      "2021-01-04",
+      "2026-05-15"
+    ],
+    "horizons": [
+      1,
+      3,
+      5
+    ],
+    "n_sessions": 1315,
+    "top_n": 20
+  },
+  "global": {
+    "rho_mean": 0.8884901583894326,
+    "rho_std": 0.07045653494009163,
+    "jaccard_mean": 0.7729600801613735,
+    "jaccard_std": 0.135308805741415
+  },
+  "by_regime": {
+    "SIDEWAY": {
+      "n_days": 21,
+      "n_valid": 21,
+      "rho_mean": 0.9436053443966924,
+      "jaccard_mean": 0.7706075842721803
+    },
+    "UPTREND": {
+      "n_days": 743,
+      "n_valid": 743,
+      "rho_mean": 0.9375772028605821,
+      "jaccard_mean": 0.8076894905905511
+    },
+    "DOWNTREND": {
+      "n_days": 551,
+      "n_valid": 551,
+      "rho_mean": 0.8201977936921245,
+      "jaccard_mean": 0.7262186109504736
+    }
+  },
+  "ev_delta": {
+    "T+1": {
+      "n_universe": 319727,
+      "n_control": 26287,
+      "n_treat": 26286,
+      "mean_universe": 0.0011959405525584252,
+      "mean_control": -4.96394008431878e-05,
+      "mean_treat": 0.0001497229650193126,
+      "delta_ev": 0.0001993623658625004,
+      "alpha_control": -0.001245579953401613,
+      "alpha_treat": -0.0010462175875391125,
+      "winrate_universe": 0.46123411535466197,
+      "winrate_control": 0.45623311903222125,
+      "winrate_treat": 0.4599026097542418
+    },
+    "T+3": {
+      "n_universe": 319727,
+      "n_control": 26287,
+      "n_treat": 26286,
+      "mean_universe": 0.004208539120262917,
+      "mean_control": 0.0017033053826279701,
+      "mean_treat": 0.0017219395839656924,
+      "delta_ev": 1.863420133772233e-05,
+      "alpha_control": -0.0025052337376349466,
+      "alpha_treat": -0.0024865995362972244,
+      "winrate_universe": 0.47678175443425175,
+      "winrate_control": 0.47338988853806063,
+      "winrate_treat": 0.4751959217834589
+    },
+    "T+5": {
+      "n_universe": 319727,
+      "n_control": 26287,
+      "n_treat": 26286,
+      "mean_universe": 0.007342932009577458,
+      "mean_control": 0.003957601553090023,
+      "mean_treat": 0.004098199192703442,
+      "delta_ev": 0.00014059763961341877,
+      "alpha_control": -0.0033853304564874344,
+      "alpha_treat": -0.0032447328168740157,
+      "winrate_universe": 0.4848480109593497,
+      "winrate_control": 0.4746072202990071,
+      "winrate_treat": 0.47778285018641103
+    }
+  },
+  "verdict": "CASE_2_CONDITIONAL_ALPHA",
+  "decision_thresholds": {
+    "CASE_1_NOISE": "rho>0.95 AND J>0.85",
+    "CASE_3_STRUCTURAL_ENGINE": "rho<0.85 AND ΔEV(T+5)>0",
+    "CASE_2_CONDITIONAL_ALPHA": "otherwise"
+  }
+}
